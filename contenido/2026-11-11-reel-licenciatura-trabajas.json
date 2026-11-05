@@ -1,0 +1,14 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-11T19:00:00",
+  "salida": "reels/2026-11-11-licenciatura-trabajas",
+  "escenas": [
+    {"tipo": "gancho", "dur": 3.0, "lineas": ["¿Trabajas y", "quieres tu título?"], "tam": 104, "sub": "No tienes que elegir entre los dos."},
+    {"tipo": "pastilla", "dur": 3.5, "titulo": "Estudia tu", "pastilla": "LICENCIATURA EN LÍNEA", "materias": ["Contabilidad", "Derecho", "Administración"]},
+    {"tipo": "checks", "dur": 4.0, "titulo": "Hecha para quien trabaja", "items": [
+      ["Sin horarios fijos", "estudias cuando puedas"], ["Termina en 3 años", "8 carreras para elegir"], ["Con validez oficial", "RVOE ante la SEGE"]]},
+    {"tipo": "precio", "dur": 4.0, "normal": "$4,300 al mes", "beca": "$1,400 al mes"},
+    {"tipo": "cierre", "dur": 4.5, "programas": "Licenciaturas 100% en línea\ncon validez oficial"}
+  ],
+  "texto": "¿Trabajas y quieres tu título? No tienes que elegir entre los dos 💼🎓\n\nCon UDEP Connect estudias tu licenciatura 100% en línea:\n✅ Sin horarios fijos: estudias cuando puedas\n✅ Terminas en 3 años\n✅ 8 carreras para elegir\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #LicenciaturaEnLinea #EstudiaYTrabaja #SanLuisPotosi #EstudiaEnLinea #ValidezOficial"
+}

@@ -1,0 +1,15 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-06T19:00:00",
+  "salida": "carruseles/2026-11-06-licenciaturas",
+  "slides": [
+    {"tipo": "portada", "etiqueta": "100% EN LÍNEA", "titulo": "Tu licenciatura en solo 3 años", "sub": "Sin horarios fijos y con validez oficial"},
+    {"tipo": "lista", "titulo": "Elige tu carrera", "items": [
+      "Administración y Gestión Empresarial", "Contador Público y Auditor", "Derecho", "Mercadotecnia Internacional"]},
+    {"tipo": "lista", "titulo": "Elige tu carrera", "items": [
+      "Pedagogía en Educación Media Superior y Superior", "Ingeniería Industrial", "Trabajo Social", "Administración de Centros de Salud"]},
+    {"tipo": "precio", "programa": "Licenciatura en línea", "normal": "$4,300 al mes", "beca": "$1,400 al mes", "extra": "Inscripción GRATIS"},
+    {"tipo": "cierre", "titulo": "8 licenciaturas 100% en línea con RVOE ante la SEGE"}
+  ],
+  "texto": "¿Quieres tu título de licenciatura pero no tienes tiempo de ir a clases? 🎓\n\nCon UDEP Connect estudias 100% en línea, a tu ritmo y desde tu celular. Terminas en solo 3 años.\n\n📚 8 licenciaturas:\n• Administración y Gestión Empresarial\n• Contador Público y Auditor\n• Derecho\n• Mercadotecnia Internacional\n• Pedagogía\n• Ingeniería Industrial\n• Trabajo Social\n• Administración de Centros de Salud\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n✅ Validez oficial (RVOE ante la SEGE)\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #LicenciaturaEnLinea #EstudiaEnLinea #SanLuisPotosi #ValidezOficial #UniversidadEnLinea"
+}

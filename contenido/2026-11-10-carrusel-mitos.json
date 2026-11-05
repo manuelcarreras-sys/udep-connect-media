@@ -1,0 +1,13 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-10T19:00:00",
+  "salida": "carruseles/2026-11-10-mitos",
+  "slides": [
+    {"tipo": "portada", "etiqueta": "MITOS", "titulo": "3 mitos de estudiar en línea", "sub": "Y lo que realmente pasa en UDEP Connect"},
+    {"tipo": "mito", "etiqueta": "MITO 1", "mito": "Estudiar en línea no tiene validez oficial", "realidad": "Todos nuestros programas tienen RVOE ante la SEGE, igual que los presenciales"},
+    {"tipo": "mito", "etiqueta": "MITO 2", "mito": "Necesitas computadora y horario fijo", "realidad": "Estudias desde tu celular, cuando tú puedas: la plataforma está abierta 24/7"},
+    {"tipo": "mito", "etiqueta": "MITO 3", "mito": "En línea estudias solo, sin apoyo", "realidad": "Tienes contacto directo con tus maestros, asesorías y seguimiento de tu avance"},
+    {"tipo": "cierre", "titulo": "Bachillerato, licenciaturas y maestrías con validez oficial"}
+  ],
+  "texto": "¿Estudiar en línea vale la pena? Te contamos 3 mitos que escuchamos seguido 👇\n\n❌ \"No tiene validez oficial\"\n✅ Todos nuestros programas tienen RVOE ante la SEGE.\n\n❌ \"Necesitas computadora y horario fijo\"\n✅ Estudias desde tu celular, a la hora que puedas. La plataforma está abierta 24/7.\n\n❌ \"Estudias solo, sin apoyo\"\n✅ Tienes contacto directo con tus maestros y asesorías.\n\n💰 Con Beca UDEP: Bachillerato desde $1,300 al mes, Licenciatura desde $1,400 al mes y Maestría desde $2,120 al mes. Inscripción GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #EstudiaEnLinea #ValidezOficial #SanLuisPotosi #EducacionEnLinea"
+}

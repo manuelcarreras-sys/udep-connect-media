@@ -1,0 +1,14 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-08T18:00:00",
+  "salida": "reels/2026-11-08-maestrias",
+  "escenas": [
+    {"tipo": "gancho", "dur": 3.0, "lineas": ["¿Ya tienes tu", "licenciatura?"], "sub": "Es momento de dar el siguiente paso."},
+    {"tipo": "pastilla", "dur": 3.5, "titulo": "Haz tu", "pastilla": "MAESTRÍA EN LÍNEA", "materias": ["Liderazgo", "Finanzas", "Estrategia"]},
+    {"tipo": "checks", "dur": 4.0, "titulo": "4 maestrías para ti", "items": [
+      ["Administración Empresarial", "y Educación"], ["Derecho Penal", "y Derecho Laboral"], ["En solo 2 años", "100% en línea, con RVOE"]]},
+    {"tipo": "precio", "dur": 4.0, "normal": "$4,320 al mes", "beca": "$2,120 al mes"},
+    {"tipo": "cierre", "dur": 4.5, "programas": "Maestrías 100% en línea\ncon validez oficial"}
+  ],
+  "texto": "¿Ya tienes tu licenciatura? Es momento de dar el siguiente paso 🚀\n\nHaz tu maestría 100% en línea con UDEP Connect, en solo 2 años y sin descuidar tu trabajo:\n• Administración Empresarial\n• Derecho Penal\n• Derecho Laboral\n• Educación\n\n💰 Costo normal: $4,320 al mes. Con Beca UDEP pagas solo $2,120 al mes y tu inscripción es GRATIS.\n\n✅ Validez oficial (RVOE ante la SEGE)\n🎓 Titúlate por tesis, proyecto de innovación o examen final\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #MaestriaEnLinea #Posgrado #SanLuisPotosi #EstudiaEnLinea #ValidezOficial"
+}
