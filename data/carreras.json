@@ -1,0 +1,3808 @@
+{
+  "derecho": {
+    "nombre": "Derecho",
+    "nombreCompleto": "Licenciatura en Derecho",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Formación integral para abogados exitosos",
+    "descripcion": "En la Universidad UDEP, nuestra Licenciatura en Derecho te brinda la formación integral necesaria para convertirte en un abogado exitoso y competitivo en el mercado laboral. Formamos profesionistas conocedores de las leyes locales y federales, con habilidades prácticas para ejercer su profesión en el ámbito público y privado.",
+    "bannerImg": "img/BannerDerecho.jpg",
+    "cardImg": "img/CarruselDerecho.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "54",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Sala de Juicios Orales"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "👨‍⚖️",
+        "titulo": "Docentes en ejercicio",
+        "texto": "Nuestros profesores son abogados activos, lo que te brinda conocimiento práctico."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Sala de Juicios Orales",
+        "texto": "Desarrolla tus habilidades de litigio en simulaciones reales."
+      },
+      {
+        "icono": "⚖️",
+        "titulo": "Práctica y simulación",
+        "texto": "Aprende mediante práctica y simulación de diversos juicios."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Visión pública y privada",
+        "texto": "Te preparamos para Poder Judicial, despachos, empresas y bufetes."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Plan integral",
+        "texto": "54 materias distribuidas en idiomas, humanidades y profesional."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "⚖️",
+        "materias": [
+          "Introducción al Estudio del Derecho",
+          "Teoría General del Estado",
+          "Teoría General del Proceso",
+          "Derecho Romano",
+          "Historia del Derecho Mexicano",
+          "Derecho Constitucional",
+          "Derecho Civil I",
+          "Derecho Civil II",
+          "Derecho Penal I",
+          "Derecho Penal II",
+          "Derecho Administrativo I",
+          "Derecho Administrativo II",
+          "Derecho del Trabajo I",
+          "Derecho del Trabajo II",
+          "Derecho Fiscal I",
+          "Derecho Fiscal II",
+          "Derecho de Amparo I",
+          "Derecho de Amparo II",
+          "Derecho Procesal Civil",
+          "Derecho Procesal Penal",
+          "Derecho Procesal Mercantil",
+          "Derecho Mercantil",
+          "Derecho Corporativo",
+          "Derecho Aduanero",
+          "Derecho Agrario",
+          "Derecho Notarial y Registral",
+          "Derecho Penitenciario",
+          "Derecho Internacional Público",
+          "Derecho Internacional Privado",
+          "Derechos Humanos",
+          "Criminología I",
+          "Criminología II",
+          "Criminalística I",
+          "Criminalística II",
+          "Medicina Forense",
+          "Oratoria Jurídica",
+          "Taller de Juicios Orales",
+          "Taller de Redacción Jurídica",
+          "Metodología y Técnicas de Investigación Jurídica",
+          "Seminario de Investigación",
+          "Seminario de Práctica de Intervención Jurídica",
+          "Economía Política",
+          "Informática I",
+          "Informática II"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Desarrollo Humano",
+          "Ética Profesional",
+          "Sociología Jurídica"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Dominio de las leyes locales, federales e internacionales",
+      "Capacidad analítica y argumentativa sólida",
+      "Habilidades de oratoria y litigación oral",
+      "Ética profesional y compromiso social",
+      "Resolución de conflictos por vías alternas",
+      "Investigación jurídica especializada"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏛️",
+        "titulo": "Poder Judicial",
+        "texto": "Cualquier cargo dentro del Poder Judicial federal o estatal."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Despachos y bufetes",
+        "texto": "Como asesor jurídico, director o postulante."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Legal en empresas",
+        "texto": "Empresas industriales, de servicios y ONGs."
+      },
+      {
+        "icono": "📜",
+        "titulo": "Notaría o correduría",
+        "texto": "Como profesional independiente o asociado."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Mediador",
+        "texto": "Resolución alterna de conflictos."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Poder Legislativo",
+        "texto": "Asesor o titular en direcciones jurídicas."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso para conocer mejor tu perfil."
+      },
+      {
+        "q": "¿Tiene Validez Oficial de Estudios (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad para migrar entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "psicologia",
+      "trabajo-social",
+      "pedagogia"
+    ]
+  },
+  "psicologia": {
+    "nombre": "Psicología",
+    "nombreCompleto": "Licenciatura en Psicología",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Explora la complejidad de la mente humana",
+    "descripcion": "En Universidad UDEP, desarrolla habilidades para identificar y abordar necesidades. Los profesionales de la salud mental juegan un papel fundamental en la identificación e intervención de las necesidades sociales, promoviendo una interacción sana y bienestar integral.",
+    "bannerImg": "img/BannerPsicologia.jpg",
+    "cardImg": "img/CarruselPsicologia.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "61",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Cámara de Gesell"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🧠",
+        "titulo": "Formación integral",
+        "texto": "Psicología Industrial, Educativa y Clínica."
+      },
+      {
+        "icono": "🔬",
+        "titulo": "Cámara de Gesell",
+        "texto": "Herramienta clave para estudiar conductas y procesos cognitivos."
+      },
+      {
+        "icono": "💡",
+        "titulo": "Habilidades innovadoras",
+        "texto": "Propón soluciones para reducir situaciones de riesgo."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Entorno pequeño y colaborativo."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca y recursos",
+        "texto": "Profundiza en tus estudios."
+      },
+      {
+        "icono": "📍",
+        "titulo": "Ubicación céntrica",
+        "texto": "Accesible y con cuotas accesibles."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "🧠",
+        "materias": [
+          "Análisis de la Conducta del Consumidor",
+          "Anatomía del Sistema Nervioso",
+          "Aprendizaje y Memoria",
+          "Bases Biológicas de la Conducta",
+          "Bioética",
+          "Diseño de Programas",
+          "Doctrinas Filosóficas",
+          "Elaboración y Evaluación de Instrumentos de Medición",
+          "Enfoques Psicológicos",
+          "Epistemología de la Psicología",
+          "Esquemas de Orientación en Psicología",
+          "Estadística I",
+          "Estadística II",
+          "Estrategias de Evaluación del Cambio del Comportamiento",
+          "Estudios de Casos Clínicos",
+          "Habilidades del Psicólogo",
+          "Metodología de la Investigación en Psicología I",
+          "Metodología de la Investigación en Psicología II",
+          "Motivación y Emoción",
+          "Neuropsicología",
+          "Nuevas Tendencias en Psicología",
+          "Pensamiento y Lenguaje",
+          "Pruebas Proyectivas I",
+          "Pruebas Proyectivas II",
+          "Pruebas Psicométricas",
+          "Psicodiagnóstico",
+          "Psicodinámica de Grupos",
+          "Psicofisiología",
+          "Psicofisiología del Sueño",
+          "Psicología Clínica",
+          "Psicología Educativa",
+          "Psicología General",
+          "Psicología Laboral",
+          "Psicología Pedagógica",
+          "Psicometría",
+          "Psicopatología",
+          "Psicoterapia",
+          "Sensación y Percepción",
+          "Taller de Sexualidad Humana",
+          "Técnicas de Investigación en Psicología",
+          "Teoría y Técnicas de la Entrevista"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Ética Profesional",
+          "Gestalt",
+          "Psicología Criminal",
+          "Psicología de la Adolescencia",
+          "Psicología de la Infancia",
+          "Psicología del Adulto",
+          "Psicología para la Atención a la Diversidad",
+          "Psicología para la Salud",
+          "Psicología Social",
+          "Recursos Humanos",
+          "Teoría de la Personalidad I",
+          "Teoría de la Personalidad II"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Evaluación y diagnóstico psicológico profesional",
+      "Diseño e implementación de intervenciones terapéuticas",
+      "Trabajo colaborativo en equipos multidisciplinarios",
+      "Ética y respeto a la diversidad humana",
+      "Investigación y análisis crítico",
+      "Aplicación de pruebas psicométricas y proyectivas"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏥",
+        "titulo": "Consultorios e instituciones educativas",
+        "texto": "Atención clínica y orientación escolar."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Organizaciones laborales",
+        "texto": "Capacitación, selección y desarrollo de personal."
+      },
+      {
+        "icono": "💊",
+        "titulo": "Centros de salud",
+        "texto": "Y de educación especial."
+      },
+      {
+        "icono": "🔬",
+        "titulo": "Laboratorios de investigación",
+        "texto": "Y guarderías."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Organismos gubernamentales",
+        "texto": "Y penitenciarios."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Servicios a la comunidad",
+        "texto": "Y consultoría privada."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso para conocer mejor tu perfil."
+      },
+      {
+        "q": "¿Tiene Validez Oficial de Estudios (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad para migrar entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "trabajo-social",
+      "pedagogia",
+      "derecho"
+    ]
+  },
+  "sistemas": {
+    "nombre": "Sistemas Computacionales",
+    "nombreCompleto": "Licenciatura en Ingeniería en Sistemas Computacionales",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Desarrolla soluciones tecnológicas innovadoras",
+    "descripcion": "En la Universidad UDEP, nuestra Ingeniería en Sistemas Computacionales te brinda la formación necesaria para convertirte en un experto en la gestión, administración y procesamiento de datos, así como en el diseño y programación de sistemas.",
+    "bannerImg": "img/BannerSistemas.jpg",
+    "cardImg": "img/CarruselSistemas.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "60",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "3",
+        "lbl": "Laboratorios de cómputo"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "💻",
+        "titulo": "Laboratorios equipados",
+        "texto": "Práctica en nuestros laboratorios de cómputo."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Profesores capacitados",
+        "texto": "Expertos en el área te brindan formación de calidad."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Entorno personalizado de fácil interacción."
+      },
+      {
+        "icono": "💰",
+        "titulo": "Cuotas accesibles",
+        "texto": "Estudia sin preocuparte por costos."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Tecnologías actuales",
+        "texto": "Web, IA, redes y bases de datos."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "💻",
+        "materias": [
+          "Algoritmos",
+          "Arquitectura de Computadoras",
+          "Auditoría de Sistemas",
+          "Bases de Datos Distribuidas",
+          "Bases de Datos I",
+          "Bases de Datos II",
+          "Circuitos Eléctricos",
+          "Compiladores",
+          "Comunicación e Investigación",
+          "Contabilidad Financiera",
+          "Creatividad",
+          "Criptografía",
+          "Física",
+          "Graficación",
+          "Ingeniería de Software I",
+          "Ingeniería de Software II",
+          "Inteligencia Artificial",
+          "Lenguajes de Programación",
+          "Mantenimiento de Equipo de Cómputo",
+          "Matemáticas Discretas",
+          "Matemáticas I",
+          "Matemáticas II",
+          "Matemáticas III",
+          "Matemáticas IV",
+          "Métodos Numéricos",
+          "Modelado",
+          "Probabilidad y Estadística",
+          "Programación I",
+          "Programación II",
+          "Programación Orientada a Objetos",
+          "Programación Wap",
+          "Programación Web I",
+          "Programación Web II",
+          "Proyecto de Investigación",
+          "Química Aplicada",
+          "Redes I",
+          "Redes II",
+          "Seminario de Investigación",
+          "Sistemas Digitales",
+          "Sistemas ERP",
+          "Sistemas Expertos",
+          "Sistemas Operativos",
+          "Sistemas Virtuales",
+          "Software Libre",
+          "Taller de Computación",
+          "Tecnologías de la Información",
+          "Teoría Computacional",
+          "Teoría Electromagnética",
+          "Tópicos Avanzados de Programación"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Competencias",
+          "Ética Profesional",
+          "Filosofía",
+          "Taller de Desarrollo Empresarial"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Desarrollo de software y aplicaciones empresariales",
+      "Administración de bases de datos y redes",
+      "Implementación de soluciones de IA",
+      "Diseño de arquitecturas distribuidas",
+      "Auditoría y seguridad informática",
+      "Liderazgo de proyectos tecnológicos"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "💻",
+        "titulo": "Desarrollo de software",
+        "texto": "Crea soluciones tecnológicas innovadoras."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Administración de recursos",
+        "texto": "Recursos materiales y tecnológicos."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Generación de proyectos",
+        "texto": "Desarrolla nuevas soluciones."
+      },
+      {
+        "icono": "🌐",
+        "titulo": "Web y móvil",
+        "texto": "Plataformas y aplicaciones."
+      },
+      {
+        "icono": "🔒",
+        "titulo": "Ciberseguridad",
+        "texto": "Auditoría y protección de sistemas."
+      },
+      {
+        "icono": "🤖",
+        "titulo": "Inteligencia artificial",
+        "texto": "Machine learning y análisis de datos."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso para conocer mejor tu perfil."
+      },
+      {
+        "q": "¿Tiene Validez Oficial de Estudios (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad para migrar entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "industrial",
+      "diseno-grafico",
+      "administracion"
+    ]
+  },
+  "contaduria": {
+    "nombre": "Contaduría",
+    "nombreCompleto": "Licenciatura en Contador Público y Auditor",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "La profesión que impulsa el crecimiento económico",
+    "descripcion": "La Contaduría es una profesión fundamental para el funcionamiento de mercados financieros, empresas y actividades económicas. Los contadores son responsables de elaborar estados financieros, analizar la rentabilidad de los negocios y tomar decisiones informadas.",
+    "bannerImg": "img/BannerContaduria.jpg",
+    "cardImg": "img/CarruselContador.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "60",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Cédula profesional"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "💼",
+        "titulo": "Decisiones informadas",
+        "texto": "Toma decisiones con criterio y ética profesional."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Resolución de problemas",
+        "texto": "Naturaleza contable, fiscal, financiera y de auditoría."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Emprendimiento",
+        "texto": "Habilidades de análisis y síntesis de información."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes en ejercicio",
+        "texto": "Contadores activos con casos reales."
+      },
+      {
+        "icono": "💰",
+        "titulo": "Cuotas accesibles",
+        "texto": "Estudia sin preocuparte por costos."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "📊",
+        "materias": [
+          "Álgebra",
+          "Auditoría Administrativa",
+          "Auditoría I",
+          "Auditoría II",
+          "Auditoría III",
+          "Cálculo Diferencial e Integral",
+          "Comercio Internacional",
+          "Contabilidad Administrativa I",
+          "Contabilidad Administrativa II",
+          "Contabilidad de Sociedades",
+          "Contabilidad I",
+          "Contabilidad II",
+          "Contabilidad III",
+          "Costos I",
+          "Costos II",
+          "Derecho Civil",
+          "Derecho del Trabajo",
+          "Derecho Fiscal",
+          "Derecho Mercantil",
+          "Dinámica Administrativa",
+          "Empresa y Administración",
+          "Estadística",
+          "Finanzas I",
+          "Finanzas II",
+          "Funciones Administrativas",
+          "Impuestos al Comercio Exterior",
+          "Impuestos I",
+          "Impuestos II",
+          "Impuestos III",
+          "Impuestos Indirectos",
+          "Informática I",
+          "Informática II",
+          "Interpretación de Información Fiscal y Financiera",
+          "Introducción a la Economía",
+          "Macroeconomía",
+          "Marco Empresarial",
+          "Matemáticas Financieras",
+          "Microeconomía",
+          "Nociones de Derecho",
+          "Obligaciones Fiscales",
+          "Paquetes Computacionales",
+          "Presupuestos",
+          "Proceso Administrativo",
+          "Psicología Industrial",
+          "Seminario de Investigación",
+          "Seminario de Planeación Fiscal",
+          "Simulación de Negocios",
+          "Sistemas de Información",
+          "Taller de Lectura y Redacción I",
+          "Taller de Lectura y Redacción II",
+          "Técnicas de Investigación"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Desarrollo Humano",
+          "Ética Profesional",
+          "Liderazgo Empresarial",
+          "Recursos Humanos",
+          "Sociología de la Empresa"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Elaboración de estados financieros profesionales",
+      "Análisis de rentabilidad y planeación fiscal",
+      "Auditoría administrativa y financiera",
+      "Gestión y control presupuestal",
+      "Cumplimiento de obligaciones fiscales",
+      "Toma de decisiones estratégicas con ética"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏢",
+        "titulo": "Sector privado",
+        "texto": "Despachos, empresas y consultorías."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Sector público",
+        "texto": "Gobiernos y entidades públicas."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Puestos directivos",
+        "texto": "Contraloría, Contaduría, Finanzas, Auditoría."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Consultoría",
+        "texto": "Asesoría fiscal y contable independiente."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Emprendimiento",
+        "texto": "Tu propio despacho contable."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Docencia",
+        "texto": "Universidades y centros de investigación."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "administracion",
+      "mercadotecnia",
+      "derecho"
+    ]
+  },
+  "administracion": {
+    "nombre": "Administración de Empresas",
+    "nombreCompleto": "Licenciatura en Administración de Empresas",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "¡Lidera el éxito en el mundo empresarial!",
+    "descripcion": "Los administradores de empresas son fundamentales para el éxito de cualquier organización. En UDEP, formamos profesionales con creatividad, dinamismo y espíritu emprendedor para identificar oportunidades de negocio y llevarlas a la práctica con ética e innovación.",
+    "bannerImg": "img/BannerAdministracion.jpg",
+    "cardImg": "img/CarruselAdministracion.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "65",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "9",
+        "lbl": "Áreas de especialización"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "💡",
+        "titulo": "Creatividad y flexibilidad",
+        "texto": "Adaptación a cambios y desafíos del entorno empresarial."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Espíritu emprendedor",
+        "texto": "Identifica oportunidades de negocio."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Habilidades interpersonales",
+        "texto": "Relaciones efectivas y trabajo en equipo."
+      },
+      {
+        "icono": "⚖️",
+        "titulo": "Ética e innovación",
+        "texto": "Negocios con impacto positivo."
+      },
+      {
+        "icono": "🌎",
+        "titulo": "Visión global",
+        "texto": "Mercados nacionales e internacionales."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "💼",
+        "materias": [
+          "Administración del Sector Público",
+          "Álgebra",
+          "Auditoría Administrativa",
+          "Auditoría de Personal",
+          "Cálculo Diferencial e Integral",
+          "Comercio Internacional",
+          "Contabilidad Administrativa I",
+          "Contabilidad Administrativa II",
+          "Contabilidad de Sociedades",
+          "Contabilidad I",
+          "Contabilidad II",
+          "Contabilidad III",
+          "Costos I",
+          "Costos II",
+          "Derecho Civil",
+          "Derecho Fiscal",
+          "Derecho Mercantil",
+          "Dinámica Administrativa",
+          "Empresa y Administración",
+          "Estadística",
+          "Evaluación de Proyectos de Inversión",
+          "Financiamiento e Inversión",
+          "Finanzas I",
+          "Finanzas II",
+          "Funciones Administrativas",
+          "Informática I",
+          "Informática II",
+          "Introducción a la Economía",
+          "Macroeconomía",
+          "Marco Empresarial",
+          "Matemáticas Financieras",
+          "Mercadotecnia I",
+          "Mercadotecnia II",
+          "Microeconomía",
+          "Nociones de Derecho",
+          "Obligaciones Fiscales",
+          "Paquetes Computacionales",
+          "Presupuestos",
+          "Proceso Administrativo",
+          "Psicología Industrial",
+          "Recursos Humanos",
+          "Relaciones Colectivas de Trabajo",
+          "Remuneración del Trabajo I",
+          "Remuneración del Trabajo II",
+          "Selección e Integración de Personal",
+          "Seminario de Investigación",
+          "Simulación de Negocios",
+          "Sistemas de Información",
+          "Sistemas de Seguridad Social",
+          "Taller de Lectura y Redacción I",
+          "Taller de Lectura y Redacción II",
+          "Técnicas de Investigación"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Comportamiento Organizacional",
+          "Desarrollo Humano",
+          "Ética Profesional",
+          "Sociología de la Empresa"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Planeación estratégica de empresas",
+      "Gestión de recursos humanos, financieros y materiales",
+      "Liderazgo y trabajo en equipo",
+      "Toma de decisiones con ética",
+      "Análisis de mercados y oportunidades",
+      "Emprendimiento y desarrollo de proyectos"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏢",
+        "titulo": "Empresas privadas",
+        "texto": "RH, planeación, producción, marketing, finanzas, ventas."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Aparato gubernamental",
+        "texto": "Instituciones públicas y organismos."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Emprendimiento",
+        "texto": "Crea tu propia empresa o asóciate."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Consultoría",
+        "texto": "Asesoría estratégica independiente."
+      },
+      {
+        "icono": "🌎",
+        "titulo": "Comercio internacional",
+        "texto": "Empresas importadoras y exportadoras."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Docencia e investigación",
+        "texto": "Centros educativos y de investigación."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "contaduria",
+      "mercadotecnia",
+      "industrial"
+    ]
+  },
+  "mercadotecnia": {
+    "nombre": "Mercadotecnia",
+    "nombreCompleto": "Licenciatura en Mercadotecnia Internacional",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Una disciplina que combina creatividad y estrategia",
+    "descripcion": "En Universidad UDEP, diseña y evalúa estrategias de mercadotecnia. Aprende a identificar, analizar e interpretar las necesidades del mercado y sus consumidores, generando oportunidades de negocios. Desarrolla habilidades innovadoras con vocación creativa y emprendedora.",
+    "bannerImg": "img/BannerMercadotecnia.jpg",
+    "cardImg": "img/CarruselMercadotecnia.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "70",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Visión internacional"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🎨",
+        "titulo": "Formación integral",
+        "texto": "Estrategias de publicidad y comercialización innovadoras."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Prácticas profesionales",
+        "texto": "Análisis de mercados y campañas reales."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes comprometidos",
+        "texto": "Guían tu desarrollo de habilidades."
+      },
+      {
+        "icono": "🌎",
+        "titulo": "Visión internacional",
+        "texto": "Mercados regionales, nacionales e internacionales."
+      },
+      {
+        "icono": "💡",
+        "titulo": "Creatividad estratégica",
+        "texto": "Combina innovación con análisis de datos."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "📈",
+        "materias": [
+          "Administración I",
+          "Administración II",
+          "Creatividad I",
+          "Creatividad II",
+          "Distribución y Comercialización",
+          "Economía",
+          "Empresas Importadoras y Exportadoras",
+          "Estadística I",
+          "Estadística II",
+          "Estrategia de Fijación de Precios",
+          "Formulación de Proyectos de Inversión",
+          "Fundamentos de Contabilidad",
+          "Fundamentos de la Mercadotecnia Internacional",
+          "Geografía Económica",
+          "Informática I",
+          "Informática II",
+          "Innovaciones Tecnológicas y Diseño de Productos",
+          "Introducción a la Mercadotecnia Internacional",
+          "Investigación de Mercados I",
+          "Investigación de Mercados II",
+          "Investigación de Operaciones",
+          "La Comunicación Intercultural",
+          "Las Variables de la Mercadotecnia Internacional",
+          "Macroeconomía",
+          "Matemáticas I",
+          "Matemáticas II",
+          "Medios Publicitarios",
+          "Mercados Internacionales",
+          "Metodología de la Investigación",
+          "Microeconomía",
+          "Negociación",
+          "Negocios Electrónicos",
+          "Nociones de Derecho",
+          "Organización y Logística de Eventos",
+          "Plan de Mercadotecnia",
+          "Planeación Estratégica",
+          "Promoción",
+          "Promoción de Ventas",
+          "Psicología del Consumidor",
+          "Publicidad I",
+          "Publicidad II",
+          "Seminario de Calidad",
+          "Seminario de Investigación I",
+          "Seminario de Investigación II",
+          "Seminario de la Cultura Empresarial",
+          "Seminario de Mercados Especiales",
+          "Seminario de Mercadotecnia en Servicios",
+          "Seminario de Proyecto",
+          "Sistemas de Información de Mercados",
+          "Sistemas de Registro Contable",
+          "Taller de Emprendedores",
+          "Taller de Lectura y Redacción I",
+          "Taller de Lectura y Redacción II",
+          "Técnicas de Comunicación",
+          "Ventas"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Comportamiento Humano en las Organizaciones",
+          "Ética Profesional",
+          "Liderazgo",
+          "Relaciones Públicas",
+          "Valores Culturales"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diseño de estrategias de mercadotecnia globales",
+      "Investigación de mercados y análisis del consumidor",
+      "Desarrollo de campañas publicitarias creativas",
+      "Comercio internacional y negociación",
+      "Marketing digital y negocios electrónicos",
+      "Planeación estratégica y emprendimiento"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "📊",
+        "titulo": "Consultoría e investigación",
+        "texto": "Investigación de mercados y publicidad."
+      },
+      {
+        "icono": "🌎",
+        "titulo": "Comercio internacional",
+        "texto": "Empresas importadoras y exportadoras."
+      },
+      {
+        "icono": "📢",
+        "titulo": "Agencias publicitarias",
+        "texto": "Diseño y ejecución de campañas."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Empresas y gobierno",
+        "texto": "Departamentos de marketing."
+      },
+      {
+        "icono": "💻",
+        "titulo": "Marketing digital",
+        "texto": "E-commerce, redes sociales, SEO."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Emprendimiento",
+        "texto": "Tu propia agencia o startup."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "administracion",
+      "diseno-grafico",
+      "contaduria"
+    ]
+  },
+  "arquitectura": {
+    "nombre": "Arquitectura",
+    "nombreCompleto": "Licenciatura en Arquitectura",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Una disciplina que combina arte, diseño y funcionalidad",
+    "descripcion": "En Universidad UDEP crea entornos agradables y estimulantes. La Arquitectura es una forma de conectar con el mundo y mejorar la calidad de vida de las personas; combina conocimientos de arte, diseño, ingeniería, paisajismo y urbanismo.",
+    "bannerImg": "img/BannerArquitectura.jpg",
+    "cardImg": "img/CarruselArquitectura.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "60",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "7",
+        "lbl": "Talleres de diseño"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🎨",
+        "titulo": "Formación integral",
+        "texto": "Observación de detalles y apreciación de la naturaleza."
+      },
+      {
+        "icono": "📐",
+        "titulo": "Desarrollo de habilidades",
+        "texto": "Diseña, transforma y mejora edificaciones."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Aprendizaje personalizado y colaborativo."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca especializada",
+        "texto": "Recursos para profundizar en tus estudios."
+      },
+      {
+        "icono": "🌳",
+        "titulo": "Arquitectura sustentable",
+        "texto": "Ecotecnias y proyectos sustentables."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Talleres prácticos",
+        "texto": "Siete talleres progresivos de arquitectura."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área Profesional",
+        "icono": "🏛️",
+        "materias": [
+          "Administración de Proyectos",
+          "Administración y Costos I",
+          "Administración y Costos II",
+          "Análisis y Programación Arquitectónica",
+          "Construcción para la Arquitectura I",
+          "Construcción para la Arquitectura II",
+          "Construcción para la Arquitectura III",
+          "Dibujo al Natural",
+          "Dibujo para Arquitectura",
+          "Dibujo por Computadora 2D y 3D",
+          "Dibujo Técnico",
+          "Dirección y Legislación de Obra",
+          "Ecotecnias y Tecnologías Verde",
+          "Estructuras I",
+          "Estructuras II",
+          "Evolución de la Forma Urbana",
+          "Expresión I",
+          "Expresión II",
+          "Fotografía Digital para la Arquitectura",
+          "Fundamentos de Diseño Asistido por Computadora",
+          "Geometría I",
+          "Geometría II",
+          "Historia de la Arquitectura I",
+          "Historia de la Arquitectura II",
+          "Instalaciones I",
+          "Instalaciones II",
+          "Matemáticas para Arquitectura",
+          "Materiales y Procesos Constructivos I",
+          "Materiales y Procesos Constructivos II",
+          "Metodología de la Arquitectura",
+          "Planeación y Control de Obra",
+          "Presentación de Proyectos en Arquitectura",
+          "Proyectos Sustentables",
+          "Resistencia de Materiales",
+          "Seminario de Construcción",
+          "Taller Básico",
+          "Taller de Arquitectura I",
+          "Taller de Arquitectura II",
+          "Taller de Arquitectura III",
+          "Taller de Arquitectura IV",
+          "Taller de Arquitectura V",
+          "Taller de Arquitectura VI",
+          "Taller de Arquitectura VII",
+          "Taller de Diseño",
+          "Taller de Tecnología del Concreto",
+          "Técnicas de Investigación",
+          "Teoría del Espacio",
+          "Topografía"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🎨",
+        "materias": [
+          "Ética Profesional",
+          "Pensamiento y Manifestaciones del Arte"
+        ]
+      },
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diseño arquitectónico funcional y estético",
+      "Dominio de software CAD 2D y 3D",
+      "Cálculo estructural y materiales",
+      "Sustentabilidad y ecotecnias",
+      "Administración de proyectos y obra",
+      "Sensibilidad artística y urbanística"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "📐",
+        "titulo": "Diseño y planeación",
+        "texto": "Proyectos arquitectónicos y urbanísticos."
+      },
+      {
+        "icono": "🏗️",
+        "titulo": "Construcción",
+        "texto": "Obras residenciales y comerciales."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Administración de proyectos",
+        "texto": "Gestión y control de obra."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Docencia e investigación",
+        "texto": "Universidades y centros especializados."
+      },
+      {
+        "icono": "🌳",
+        "titulo": "Arquitectura sustentable",
+        "texto": "Especialización en domótica y ecodiseño."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Restauración",
+        "texto": "Patrimonio y remodelación."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio y reservar tu lugar."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad después?",
+        "a": "Sí, ofrecemos flexibilidad entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos por pronto pago. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "diseno-grafico",
+      "industrial",
+      "sistemas"
+    ]
+  },
+  "industrial": {
+    "nombre": "Ingeniería Industrial",
+    "nombreCompleto": "Licenciatura en Ingeniería Industrial",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Optimiza procesos y lidera la productividad",
+    "descripcion": "En UDEP formamos ingenieros industriales capaces de diseñar, implementar y mejorar sistemas integrados de producción. Una carrera estratégica para optimizar recursos, reducir costos y aumentar la productividad de empresas manufactureras y de servicios.",
+    "bannerImg": "img/BannerSistemas.jpg",
+    "cardImg": "img/CarruselIndustrial.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "55",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Enfoque sistémico"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Personal altamente capacitado",
+        "texto": "Profesores expertos en procesos industriales que brindan una formación de alta calidad."
+      },
+      {
+        "icono": "🎯",
+        "titulo": "Atención personalizada",
+        "texto": "Aprende en un entorno personalizado y de fácil interacción."
+      },
+      {
+        "icono": "🖥️",
+        "titulo": "Simuladores actuales",
+        "texto": "Aprende mediante la práctica en simuladores actualizados."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Aprende en un entorno de grupos pequeños y colaborativos."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca y recursos",
+        "texto": "Accede a nuestra biblioteca y recursos para profundizar en tus estudios."
+      },
+      {
+        "icono": "📍",
+        "titulo": "Ubicación céntrica y cuotas accesibles",
+        "texto": "Estudia en un lugar accesible y sin preocuparte por los costos."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Análisis de la Realidad Nacional",
+          "Cultura y Comunicación",
+          "Ética Profesional",
+          "Investigación Social"
+        ]
+      },
+      {
+        "area": "Área Profesional",
+        "icono": "⚙️",
+        "materias": [
+          "Administración de la Calidad",
+          "Administración de Recursos Humanos",
+          "Administración General",
+          "Álgebra Lineal",
+          "Cálculo Diferencial",
+          "Cálculo Integral y Vectorial",
+          "Contabilidad y Costos",
+          "Control Estadístico del Proceso",
+          "Costos de Calidad",
+          "Derecho del Trabajo y Seguridad Social",
+          "Desarrollo de Habilidades Gerenciales",
+          "Dibujo Mecánico Industrial por Computadora",
+          "Diseño de Sistemas de Producción",
+          "Distribución de Planta y Manejo de Materiales",
+          "Ecuaciones Diferenciales",
+          "Electricidad y Magnetismo Industrial",
+          "Ergonomía y Factores Humanos",
+          "Estadística Aplicada",
+          "Higiene y Seguridad Industrial",
+          "Ingeniería de Sistemas",
+          "Ingeniería Económica",
+          "Ingeniería Eléctrica Industrial",
+          "Ingeniería Mecánica",
+          "Introducción a la Ingeniería Industrial",
+          "Investigación de Operaciones I",
+          "Investigación de Operaciones II",
+          "Manufactura Esbelta",
+          "Matemáticas Avanzadas",
+          "Metodología de la Investigación Industrial",
+          "Metrología y Normalización Industrial",
+          "Métodos Numéricos",
+          "Planeación y Control de Producción",
+          "Probabilidad y Estadísticas",
+          "Procesos de Fabricación",
+          "Procesos de Manufactura I",
+          "Procesos de Manufactura II",
+          "Programación I",
+          "Programación II",
+          "Química Industrial",
+          "Relaciones Industriales",
+          "Seminario de Ingeniería",
+          "Seminario de Investigación",
+          "Simulación",
+          "Sistemas de Mejoramiento Ambiental",
+          "Taller de Ingeniería Eléctrica",
+          "Tecnología de Materiales",
+          "Termodinámica",
+          "Tópicos de Manufactura"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diseño y mejora de sistemas productivos",
+      "Control estadístico de calidad",
+      "Optimización de cadenas de suministro",
+      "Liderazgo de equipos multidisciplinarios",
+      "Manufactura esbelta",
+      "Sistemas de gestión ambiental"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🦺",
+        "titulo": "Seguridad industrial",
+        "texto": "Garantiza la seguridad y salud en el trabajo."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Gestión del talento humano",
+        "texto": "Desarrolla y gestiona equipos de trabajo."
+      },
+      {
+        "icono": "🚚",
+        "titulo": "Logística de distribución",
+        "texto": "Gestiona la cadena de suministro y distribución."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Gestión administrativa",
+        "texto": "Dirige y administra empresas y organizaciones."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad?",
+        "a": "Sí, entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "sistemas",
+      "administracion",
+      "arquitectura"
+    ]
+  },
+  "diseno-grafico": {
+    "nombre": "Diseño Gráfico",
+    "nombreCompleto": "Licenciatura en Diseño Gráfico",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Comunica ideas que transforman marcas",
+    "descripcion": "En UDEP formamos diseñadores gráficos capaces de crear experiencias visuales que conectan, comunican y transforman. Combinamos teoría del diseño con dominio de herramientas digitales para que desarrolles tu propio estilo profesional.",
+    "bannerImg": "img/BannerDiseño.jpg",
+    "cardImg": "img/CarruselDiseño.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "55",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "10",
+        "lbl": "Programas creativos"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "⭐",
+        "titulo": "Fortaleza académica",
+        "texto": "Una de las carreras estrella que caracteriza a UDEP por su excelencia académica."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes comprometidos",
+        "texto": "Comprometidos con la enseñanza y la guía de los estudiantes para que desarrollen sus habilidades."
+      },
+      {
+        "icono": "🎨",
+        "titulo": "Perfil profesional",
+        "texto": "Combina el arte, la comunicación y la tecnología con distintos programas y técnicas de diseño."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Aprende en un entorno de grupos pequeños y colaborativos."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca y recursos",
+        "texto": "Accede a nuestra biblioteca y recursos para profundizar en tus estudios."
+      },
+      {
+        "icono": "📍",
+        "titulo": "Ubicación céntrica y cuotas accesibles",
+        "texto": "Estudia en un lugar accesible y sin preocuparte por los costos."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas profesionales",
+    "planEstudios": [
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Ética Profesional",
+          "Historia de la Comunicación Gráfica",
+          "Historia del Arte Universal"
+        ]
+      },
+      {
+        "area": "Área Profesional",
+        "icono": "🎨",
+        "materias": [
+          "Administración",
+          "Administración de Proyectos",
+          "Costos y Presupuestos",
+          "Desarrollo Empresarial",
+          "Dibujo al Natural",
+          "Dibujo Técnico",
+          "Diseño Web",
+          "Envase y Embalaje",
+          "Expresión Gráfica I",
+          "Expresión Gráfica II",
+          "Fotografía I",
+          "Fotografía II",
+          "Geometría Descriptiva I",
+          "Geometría Descriptiva II",
+          "Ilustración",
+          "Imagen Corporativa",
+          "Introducción a la Informática",
+          "Laboratorio Audiovisual",
+          "Marco Legal de la Comunicación",
+          "Materiales y Técnicas de Realización I",
+          "Materiales y Técnicas de Realización II",
+          "Mercadotecnia",
+          "Metodología de la Investigación",
+          "Metodología del Diseño I",
+          "Metodología del Diseño II",
+          "Presentación de Proyectos",
+          "Psicología del Consumidor",
+          "Publicidad I",
+          "Publicidad II",
+          "Redacción",
+          "Seminario de Investigación",
+          "Seminario de Psicología y Apreciación del Arte",
+          "Sistemas de Impresión I",
+          "Sistemas de Impresión II",
+          "Taller de Computación I",
+          "Taller de Computación II",
+          "Taller de Computación III",
+          "Taller de Diseño Básico",
+          "Taller de Diseño Gráfico I",
+          "Taller de Diseño Gráfico II",
+          "Taller de Diseño Gráfico III",
+          "Taller de Diseño Gráfico IV",
+          "Taller de Diseño Gráfico V",
+          "Taller de Diseño Gráfico VI",
+          "Taller de Diseño Gráfico VII",
+          "Taller de Diseño Gráfico VIII",
+          "Técnicas Audiovisuales I",
+          "Técnicas Audiovisuales II",
+          "Técnicas de Investigación",
+          "Teoría del Concepto Gráfico",
+          "Teoría del Mensaje Gráfico I",
+          "Teoría del Mensaje Gráfico II",
+          "Teoría General del Diseño",
+          "Tipografía"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diseño de identidad corporativa y branding",
+      "Dirección de arte y conceptualización",
+      "Dominio de software profesional",
+      "Diseño editorial, web y multimedia",
+      "Producción de animación y motion graphics",
+      "Pensamiento crítico y estético"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏢",
+        "titulo": "Empresas públicas y privadas",
+        "texto": "En áreas de diseño gráfico impreso y digital."
+      },
+      {
+        "icono": "💻",
+        "titulo": "Freelance e independiente",
+        "texto": "Ofreciendo servicios de diseño especializado por cuenta propia."
+      },
+      {
+        "icono": "📣",
+        "titulo": "Publicidad y relaciones públicas",
+        "texto": "Y servicios relacionados con la comunicación visual."
+      },
+      {
+        "icono": "🖨️",
+        "titulo": "Industria de la impresión",
+        "texto": "Actividades de impresión y asistencia relacionadas."
+      },
+      {
+        "icono": "📰",
+        "titulo": "Editoriales",
+        "texto": "Editores de periódicos, publicaciones periódicas, libros y directorios."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad?",
+        "a": "Sí, entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "mercadotecnia",
+      "arquitectura",
+      "sistemas"
+    ]
+  },
+  "pedagogia": {
+    "nombre": "Pedagogía",
+    "nombreCompleto": "Licenciatura en Pedagogía en Educación Media Superior y Superior",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Forma a las próximas generaciones de profesionistas",
+    "descripcion": "En UDEP formamos pedagogos especializados en educación media superior y superior. Una carrera con vocación de servicio para diseñar, implementar y evaluar programas educativos que transformen vidas.",
+    "bannerImg": "img/BannerPedagogia.jpg",
+    "cardImg": "img/CarruselPedagogia.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "50",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "2",
+        "lbl": "Niveles educativos"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🎓",
+        "titulo": "Formación integral",
+        "texto": "Profesionales comprometidos con la educación, capaces de establecer relaciones y trabajar en equipo."
+      },
+      {
+        "icono": "❤️",
+        "titulo": "Vocación de servicio",
+        "texto": "Preparados para proponer alternativas innovadoras y propuestas enfocadas a la mejora escolar."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Aprende en un entorno de grupos pequeños y colaborativos."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca y recursos",
+        "texto": "Accede a nuestra biblioteca y recursos para profundizar en tus estudios."
+      },
+      {
+        "icono": "📍",
+        "titulo": "Ubicación céntrica y cuotas accesibles",
+        "texto": "Estudia en un lugar accesible y sin preocuparte por los costos."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas docentes",
+    "planEstudios": [
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Corrientes Psicológicas Contemporáneas",
+          "Ética Profesional",
+          "Psicología de la Adolescencia",
+          "Psicología del Adulto"
+        ]
+      },
+      {
+        "area": "Área Profesional",
+        "icono": "📖",
+        "materias": [
+          "Auditoría de la Capacitación",
+          "Capacitación",
+          "Comunicación I",
+          "Comunicación II",
+          "Desarrollo de la Comunidad",
+          "Didáctica I",
+          "Didáctica II",
+          "Dinámica de Grupos",
+          "Diseño de Programas I",
+          "Diseño de Programas II",
+          "Diseño y Elaboración de Materiales Didácticos",
+          "Educación Media",
+          "Educación Superior",
+          "Estadística I",
+          "Estadística II",
+          "Filosofía",
+          "Filosofía de la Educación",
+          "Historia de la Educación en México",
+          "Historia de la Educación I",
+          "Historia de la Educación II",
+          "Introducción a la Administración",
+          "Introducción a la Informática",
+          "Introducción a la Pedagogía I",
+          "Introducción a la Pedagogía II",
+          "Investigación Educativa",
+          "Legislación Educativa",
+          "Matemáticas para las Ciencias Sociales",
+          "Microenseñanza",
+          "Organización Educativa",
+          "Orientación Educativa I",
+          "Orientación Educativa II",
+          "Psicología del Aprendizaje",
+          "Psicología Educativa",
+          "Psicología General",
+          "Psicología Industrial",
+          "Psicotécnica Pedagógica",
+          "Relaciones Industriales",
+          "Seminario de Alternativas Metodológicas en Pedagogía",
+          "Seminario de Investigación",
+          "Semiótica",
+          "Sociología Pedagógica",
+          "Taller de Capacitación",
+          "Taller de Computación",
+          "Técnicas Psicológicas"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diseño curricular para prepa y universidad",
+      "Docencia con metodologías activas",
+      "Diseño y evaluación de programas educativos",
+      "Orientación vocacional y tutoría",
+      "Investigación educativa",
+      "Administración de instituciones educativas"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏫",
+        "titulo": "Instituciones educativas",
+        "texto": "Desarrollo profesional en escuelas y centros educativos."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Fundaciones y ONG",
+        "texto": "Organizaciones no gubernamentales con labor educativa y social."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Empresas privadas o públicas",
+        "texto": "Áreas de capacitación, formación y desarrollo de talento."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Consultorías",
+        "texto": "Asesoría especializada en proyectos educativos."
+      },
+      {
+        "icono": "🖥️",
+        "titulo": "Educación a distancia",
+        "texto": "Centros de educación a distancia y medios de comunicación."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Museos interactivos",
+        "texto": "Diseño de experiencias y programas educativos."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad?",
+        "a": "Sí, entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "psicologia",
+      "trabajo-social",
+      "derecho"
+    ]
+  },
+  "trabajo-social": {
+    "nombre": "Trabajo Social",
+    "nombreCompleto": "Licenciatura en Trabajo Social",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Transforma comunidades, transforma vidas",
+    "descripcion": "En UDEP formamos trabajadores sociales comprometidos con la transformación de su entorno. Una carrera con sentido humano para diseñar e implementar intervenciones que mejoren la calidad de vida de personas, familias y comunidades.",
+    "bannerImg": "img/BannerTrabajo.jpg",
+    "cardImg": "img/CarruselTrabajo.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "50",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "3",
+        "lbl": "Niveles de intervención"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🎓",
+        "titulo": "Formación integral",
+        "texto": "Capacidad de análisis y síntesis en la práctica profesional y social, con compromiso ético."
+      },
+      {
+        "icono": "🛠️",
+        "titulo": "Desarrollo de habilidades",
+        "texto": "Para implementar procesos de investigación, planeación, ejecución y evaluación de programas sociales."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Aprende en un entorno de grupos pequeños y colaborativos."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca y recursos",
+        "texto": "Accede a nuestra biblioteca y recursos para profundizar en tus estudios."
+      },
+      {
+        "icono": "📍",
+        "titulo": "Ubicación céntrica y cuotas accesibles",
+        "texto": "Estudia en un lugar accesible y sin preocuparte por los costos."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas en comunidades",
+    "planEstudios": [
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Bienestar Social",
+          "Ética Profesional",
+          "Identidad y Cultura",
+          "Psicología del Desarrollo Humano",
+          "Psicología Social",
+          "Teoría Social I",
+          "Teoría Social II"
+        ]
+      },
+      {
+        "area": "Área Profesional",
+        "icono": "🫶",
+        "materias": [
+          "Administración Social",
+          "Análisis del Estado Mexicano",
+          "Análisis Institucional",
+          "Bioética",
+          "Comunicación Social",
+          "Derechos Humanos",
+          "Desarrollo Histórico de Trabajo Social",
+          "Desarrollo Regional",
+          "Educación Social",
+          "Estadística Aplicada a la Investigación Social I",
+          "Estadística Aplicada a la Investigación Social II",
+          "Evaluación de Proyectos Sociales",
+          "Familia y Vida Cotidiana",
+          "Investigación Social",
+          "Lógica y Epistemología",
+          "Movimientos y Participación Social",
+          "Necesidades y Problemas Sociales",
+          "Organización y Promoción Social",
+          "Planeación y Desarrollo Social",
+          "Población y Medio Ambiente",
+          "Política Social",
+          "Práctica Comunitaria I",
+          "Práctica Comunitaria II",
+          "Práctica de Especialización I",
+          "Práctica de Especialización II",
+          "Práctica Regional I",
+          "Práctica Regional II",
+          "Problemática Rural",
+          "Problemática Urbana",
+          "Procuración y Administración de Justicia",
+          "Programación Social",
+          "Salud Mental",
+          "Salud Pública",
+          "Situación Internacional Contemporánea",
+          "Situación Jurídica de la Familia",
+          "Situación Nacional Contemporánea",
+          "Teoría de Grupos y Trabajo Social",
+          "Teoría del Trabajo Social Comunitario",
+          "Teoría Económica I",
+          "Teoría Económica II",
+          "Trabajo Social en la Atención Individualizada"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diagnóstico e intervención social",
+      "Diseño de proyectos comunitarios",
+      "Trabajo con familias en crisis",
+      "Gestión de programas asistenciales",
+      "Promoción de derechos humanos",
+      "Investigación social aplicada"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏥",
+        "titulo": "Salud física y mental",
+        "texto": "Instituciones públicas y organismos privados de salud."
+      },
+      {
+        "icono": "🏫",
+        "titulo": "Educación y readaptación",
+        "texto": "Instituciones educativas y de readaptación social."
+      },
+      {
+        "icono": "👵",
+        "titulo": "Rehabilitación geriátrica",
+        "texto": "Organismos de rehabilitación geriátrica y servicios sociales."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Bienestar comunitario",
+        "texto": "Programas y proyectos de bienestar social y comunitario."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad?",
+        "a": "Sí, entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "psicologia",
+      "pedagogia",
+      "centros-salud"
+    ]
+  },
+  "centros-salud": {
+    "nombre": "Centros de Salud",
+    "nombreCompleto": "Licenciatura en Administración de Centros de Salud",
+    "tipo": "Licenciatura",
+    "modalidad": "Escolarizada",
+    "tagline": "Gestiona la salud, salva vidas",
+    "descripcion": "En UDEP formamos administradores de centros de salud capaces de gestionar hospitales, clínicas y centros médicos con eficiencia, ética y visión humana. Una carrera estratégica en uno de los sectores con mayor crecimiento.",
+    "bannerImg": "img/BannerCentros.jpg",
+    "cardImg": "img/CarruselCentros.jpg",
+    "stats": [
+      {
+        "num": "4",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "55",
+        "lbl": "Materias en total"
+      },
+      {
+        "num": "100",
+        "lbl": "Programa con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Sector en crecimiento"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🎓",
+        "titulo": "Formación integral",
+        "texto": "Capacidad de análisis en la gestión de centros de salud, con compromiso ético y de servicio."
+      },
+      {
+        "icono": "🛠️",
+        "titulo": "Desarrollo de habilidades",
+        "texto": "Para implementar procesos de planificación, organización y evaluación de servicios de salud."
+      },
+      {
+        "icono": "👥",
+        "titulo": "Grupos reducidos",
+        "texto": "Aprende en un entorno de grupos pequeños y colaborativos."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca y recursos",
+        "texto": "Accede a nuestra biblioteca y recursos para profundizar en tus estudios."
+      },
+      {
+        "icono": "📍",
+        "titulo": "Ubicación céntrica y cuotas accesibles",
+        "texto": "Estudia en un lugar accesible y sin preocuparte por los costos."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "4 años · 9 cuatrimestres",
+    "incluye": "Servicio social y prácticas en hospitales",
+    "planEstudios": [
+      {
+        "area": "Área de Idiomas",
+        "icono": "🌎",
+        "materias": [
+          "Inglés I",
+          "Inglés II",
+          "Inglés III",
+          "Inglés IV",
+          "Inglés V",
+          "Inglés VI",
+          "Inglés VII",
+          "Inglés VIII"
+        ]
+      },
+      {
+        "area": "Área de Humanidades",
+        "icono": "🤝",
+        "materias": [
+          "Comportamiento Organizacional",
+          "Desarrollo Humano",
+          "Ética, Persona y Sociedad",
+          "Perspectiva Científica y Tecnológica",
+          "Perspectiva Humanista",
+          "Perspectiva Sociopolítica",
+          "Sociología"
+        ]
+      },
+      {
+        "area": "Área Profesional",
+        "icono": "🏥",
+        "materias": [
+          "Administración",
+          "Administración de la Relación con Clientes en los Sistemas de Salud",
+          "Administración de los Servicios de Salud",
+          "Administración de Operaciones",
+          "Administración de Operaciones en Sistemas de Salud",
+          "Administración de Tecnologías de Información en Salud",
+          "Administración del Cuidado Ambulatorio",
+          "Administración Financiera en los Sistemas de Salud",
+          "Análisis de Costos",
+          "Análisis de Decisiones",
+          "Bioestadística",
+          "Bioética I",
+          "Bioética II",
+          "Bioética III",
+          "Bioética IV",
+          "Calidad en los Sistemas de Salud",
+          "Cuidados Primarios y Medicina Preventiva",
+          "Derecho de la Empresa",
+          "Desarrollo Comunitario y Propedéutica",
+          "Economía y Salud",
+          "Estadística",
+          "Estructura Organizacional de los Sistemas de Salud",
+          "Evaluación de Proyectos para los Sistemas de Salud",
+          "Evaluación y Educación para la Salud",
+          "Expresión Verbal en el Ámbito Profesional",
+          "Gestión de Recursos Humanos en las Organizaciones de la Salud",
+          "Gestión en Sistemas de Salud en Cirugías",
+          "Gestión en Sistemas de Salud en Ginecología y Obstetricia",
+          "Gestión en Sistemas de Salud en Medicina Interna",
+          "Gestión en Sistemas de Salud en Pediatría",
+          "Historia y Métodos de Ciencias de la Salud",
+          "Información Financiera",
+          "Innovación y Generación de Empresas en los Sistemas de Salud",
+          "Investigación en los Sistemas de Salud",
+          "Marco Legal y Fiscal de los Sistemas de Salud",
+          "Matemáticas I",
+          "Matemáticas II",
+          "Planeación Estratégica de los Sistemas de Salud",
+          "Salud Comunitaria",
+          "Salud Pública y Epidemiología",
+          "Sistemas de Control Administrativo en los Sistemas de Salud",
+          "Sistemas de Control",
+          "Sistemas de Salud I",
+          "Sistemas de Salud II",
+          "Técnicas y Modelos de Resolución de Conflictos"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Gestión integral de centros de salud",
+      "Administración financiera hospitalaria",
+      "Cumplimiento normativo sanitario",
+      "Liderazgo de equipos médicos",
+      "Calidad y mejora continua",
+      "Planeación estratégica del sector"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏥",
+        "titulo": "Centros de salud",
+        "texto": "Centros de salud públicos y privados."
+      },
+      {
+        "icono": "🏨",
+        "titulo": "Hospitales y clínicas",
+        "texto": "Gestión y administración de unidades hospitalarias."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Organismos de salud",
+        "texto": "Gubernamentales y no gubernamentales."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Salud comunitaria",
+        "texto": "Programas y proyectos de salud comunitaria y prevención de enfermedades."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuándo inician las clases?",
+        "a": "Tenemos varios ingresos al año. Contáctanos para conocer el próximo inicio."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Sí, realizamos una entrevista y evaluación de ingreso."
+      },
+      {
+        "q": "¿Tiene Validez Oficial (RVOE)?",
+        "a": "Sí, todos nuestros programas cuentan con RVOE ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiarme de modalidad?",
+        "a": "Sí, entre Escolarizada, Ejecutiva o En Línea."
+      },
+      {
+        "q": "¿Hay descuentos o becas?",
+        "a": "Contamos con planes de financiamiento y descuentos. Llámanos al 444 8 12 34 34."
+      }
+    ],
+    "relacionadas": [
+      "administracion",
+      "trabajo-social",
+      "contaduria"
+    ]
+  },
+  "maestria-empresarial": {
+    "nombre": "Administración Empresarial",
+    "nombreCompleto": "Maestría en Administración Empresarial",
+    "tipo": "Maestría",
+    "modalidad": "100% Online",
+    "tagline": "Lleva tu carrera al siguiente nivel ejecutivo",
+    "descripcion": "Maestría diseñada para profesionales que buscan posiciones directivas. Te formamos en estrategia, liderazgo y gestión integral con visión global. 100% online para que avances sin pausar tu carrera.",
+    "bannerImg": "img/BannerMaestriaAdministracion.jpg",
+    "cardImg": "img/CarruselMaestriaAdministracion.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "100",
+        "lbl": "Online",
+        "suffix": "%"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "24",
+        "lbl": "Acceso a plataforma",
+        "suffix": "/7"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🌐",
+        "titulo": "100% Online",
+        "texto": "Estudia desde donde estés, a tu ritmo."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Enfoque ejecutivo",
+        "texto": "Casos reales de empresas líderes."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes directivos",
+        "texto": "Profesores con experiencia en alta dirección."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Visión estratégica",
+        "texto": "Decisiones de alto impacto organizacional."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Networking",
+        "texto": "Conecta con profesionales en transición ejecutiva."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "100% en línea, acceso 24/7",
+    "duracionTexto": "2 años · 6 cuatrimestres",
+    "incluye": "Plataforma Moodle, asesorías y proyecto integrador",
+    "planEstudios": [
+      {
+        "area": "Primer Cuatrimestre",
+        "icono": "1️⃣",
+        "materias": [
+          "Administración Empresarial",
+          "Perspectivas Económicas Legales",
+          "Tecnología de la Información en Innovación Financiera"
+        ]
+      },
+      {
+        "area": "Segundo Cuatrimestre",
+        "icono": "2️⃣",
+        "materias": [
+          "Taller de Modelos Cuantitativos para la Toma de Decisiones",
+          "Contabilidad Financiera",
+          "Finanzas Corporativas"
+        ]
+      },
+      {
+        "area": "Tercer Cuatrimestre",
+        "icono": "3️⃣",
+        "materias": [
+          "Planeación Estratégica",
+          "Economía Financiera",
+          "Administración Financiera y Evaluación de Proyectos de Inversión"
+        ]
+      },
+      {
+        "area": "Cuarto Cuatrimestre",
+        "icono": "4️⃣",
+        "materias": [
+          "Investigación Financiera",
+          "Investigación de Mercados Financieros",
+          "Toma de Decisiones en Finanzas"
+        ]
+      },
+      {
+        "area": "Quinto Cuatrimestre",
+        "icono": "5️⃣",
+        "materias": [
+          "El Entorno Fiscal y Legal de la Empresa en México",
+          "Alta Dirección"
+        ]
+      },
+      {
+        "area": "Sexto Cuatrimestre",
+        "icono": "6️⃣",
+        "materias": [
+          "Estrategias Financieras para PyMEs",
+          "Finanzas Corporativas Avanzadas"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Análisis avanzado de estados financieros y evaluación de proyectos de inversión.",
+      "Gestión financiera sustentable y manejo de herramientas estadísticas.",
+      "Liderazgo estratégico y toma de decisiones de alto nivel.",
+      "Gestión de la innovación y dirección de equipos multiculturales.",
+      "Dominio de TICs financieras y herramientas digitales especializadas.",
+      "Análisis de datos, gestión de información e innovación digital."
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏢",
+        "titulo": "Alta dirección",
+        "texto": "CEO, director general, vicepresidencias."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Consultoría estratégica",
+        "texto": "Firmas independientes."
+      },
+      {
+        "icono": "🚀",
+        "titulo": "Emprendimiento",
+        "texto": "Funda y dirige tu propia empresa."
+      },
+      {
+        "icono": "🌎",
+        "titulo": "Multinacionales",
+        "texto": "Posiciones gerenciales en empresas globales."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito tener título de licenciatura?",
+        "a": "Sí, es requisito de ingreso a cualquier maestría."
+      },
+      {
+        "q": "¿Es realmente 100% online?",
+        "a": "Sí, todo se realiza vía plataforma Moodle, sin sesiones presenciales obligatorias."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento de Validez Oficial ante la SEGE."
+      },
+      {
+        "q": "¿Cómo me titulo?",
+        "a": "Por tesis, proyecto de innovación o examen final."
+      },
+      {
+        "q": "¿Cuánto tiempo dura?",
+        "a": "Dos años distribuidos en cuatrimestres."
+      }
+    ],
+    "relacionadas": [
+      "maestria-derecho-penal",
+      "maestria-derecho-laboral",
+      "maestria-educacion"
+    ]
+  },
+  "maestria-derecho-penal": {
+    "nombre": "Derecho Penal",
+    "nombreCompleto": "Maestría en Derecho Penal",
+    "tipo": "Maestría",
+    "modalidad": "100% Online",
+    "tagline": "Especialización en el sistema penal acusatorio",
+    "descripcion": "Maestría enfocada en formar especialistas del sistema penal acusatorio mexicano. Profundiza en argumentación jurídica, juicios orales y litigación estratégica. 100% online con docentes en ejercicio.",
+    "bannerImg": "img/BannerDerechoPenal.jpg",
+    "cardImg": "img/CarruselMaestriaPenal.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "100",
+        "lbl": "Online",
+        "suffix": "%"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Sistema acusatorio"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "⚖️",
+        "titulo": "Sistema acusatorio",
+        "texto": "Especialización en el modelo penal vigente en México."
+      },
+      {
+        "icono": "🎙️",
+        "titulo": "Litigación oral",
+        "texto": "Desarrolla tu argumentación en juicios orales."
+      },
+      {
+        "icono": "👨‍⚖️",
+        "titulo": "Docentes en ejercicio",
+        "texto": "Jueces, fiscales y litigantes activos."
+      },
+      {
+        "icono": "🌐",
+        "titulo": "100% Online",
+        "texto": "Estudia desde donde estés."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Análisis de casos",
+        "texto": "Casos reales del sistema penal."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "100% en línea, acceso 24/7",
+    "duracionTexto": "2 años · 6 cuatrimestres",
+    "incluye": "Plataforma Moodle, casos prácticos y proyecto integrador",
+    "planEstudios": [
+      {
+        "area": "Primer Cuatrimestre",
+        "icono": "1️⃣",
+        "materias": [
+          "Introducción al Derecho Penal",
+          "Derecho Penal"
+        ]
+      },
+      {
+        "area": "Segundo Cuatrimestre",
+        "icono": "2️⃣",
+        "materias": [
+          "Teoría del Delito",
+          "Derechos Humanos y sus Garantías"
+        ]
+      },
+      {
+        "area": "Tercer Cuatrimestre",
+        "icono": "3️⃣",
+        "materias": [
+          "Derecho Procesal Penal",
+          "El Amparo en Materia Penal"
+        ]
+      },
+      {
+        "area": "Cuarto Cuatrimestre",
+        "icono": "4️⃣",
+        "materias": [
+          "Metodología de la Investigación de Ciencias Jurídicas",
+          "Argumentación Jurídica y Juicio Oral"
+        ]
+      },
+      {
+        "area": "Quinto Cuatrimestre",
+        "icono": "5️⃣",
+        "materias": [
+          "Derecho Penitenciario",
+          "Criminología"
+        ]
+      },
+      {
+        "area": "Sexto Cuatrimestre",
+        "icono": "6️⃣",
+        "materias": [
+          "Criminalística"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Dominio especializado del derecho penal y de los procedimientos penales.",
+      "Argumentación jurídica avanzada e investigación jurídica especializada.",
+      "Litigación penal estratégica y litigación oral avanzada.",
+      "Estrategia procesal, interpretación normativa y manejo de casos complejos.",
+      "Aplicación de jurisprudencia en la procuración e impartición de justicia.",
+      "Capacidad para la docencia universitaria y la consultoría especializada."
+    ],
+    "campoLaboral": [
+      {
+        "icono": "👨‍⚖️",
+        "titulo": "Poder Judicial",
+        "texto": "Juzgados penales y tribunales orales."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Fiscalía",
+        "texto": "Ministerio público y fiscalías especializadas."
+      },
+      {
+        "icono": "⚖️",
+        "titulo": "Defensoría pública",
+        "texto": "Defensoría de oficio."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Despachos especializados",
+        "texto": "Litigación penal privada."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito tener título de licenciatura?",
+        "a": "Sí, es requisito de ingreso a cualquier maestría."
+      },
+      {
+        "q": "¿Es realmente 100% online?",
+        "a": "Sí, todo se realiza vía plataforma Moodle, sin sesiones presenciales obligatorias."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento de Validez Oficial ante la SEGE."
+      },
+      {
+        "q": "¿Cómo me titulo?",
+        "a": "Por tesis, proyecto de innovación o examen final."
+      },
+      {
+        "q": "¿Cuánto tiempo dura?",
+        "a": "Dos años distribuidos en cuatrimestres."
+      }
+    ],
+    "relacionadas": [
+      "maestria-derecho-laboral",
+      "derecho",
+      "maestria-empresarial"
+    ]
+  },
+  "maestria-derecho-laboral": {
+    "nombre": "Derecho Laboral",
+    "nombreCompleto": "Maestría en Derecho Laboral",
+    "tipo": "Maestría",
+    "modalidad": "100% Online",
+    "tagline": "Especialízate en relaciones laborales contemporáneas",
+    "descripcion": "Maestría enfocada en la reforma laboral mexicana y el nuevo modelo de justicia del trabajo. Domina la representación, negociación colectiva y resolución de conflictos laborales. 100% online.",
+    "bannerImg": "img/BannerMaestriaLaboral.jpg",
+    "cardImg": "img/CarruselMaestriaLaboral.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "100",
+        "lbl": "Online",
+        "suffix": "%"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Reforma laboral 2019"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "⚖️",
+        "titulo": "Reforma laboral 2019",
+        "texto": "Domina el nuevo modelo de justicia del trabajo."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Negociación colectiva",
+        "texto": "Conciliación y contratos colectivos modernos."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes especializados",
+        "texto": "Abogados laborales y juzgadores activos."
+      },
+      {
+        "icono": "🌐",
+        "titulo": "100% Online",
+        "texto": "Estudia desde cualquier lugar."
+      },
+      {
+        "icono": "📋",
+        "titulo": "Casos reales",
+        "texto": "Análisis de jurisprudencia reciente."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "100% en línea, acceso 24/7",
+    "duracionTexto": "2 años · 6 cuatrimestres",
+    "incluye": "Plataforma Moodle, casos prácticos y proyecto integrador",
+    "planEstudios": [
+      {
+        "area": "Primer Cuatrimestre",
+        "icono": "1️⃣",
+        "materias": [
+          "Introducción al Derecho del Trabajo",
+          "Derecho del Trabajo en la Constitución y Últimas Reformas"
+        ]
+      },
+      {
+        "area": "Segundo Cuatrimestre",
+        "icono": "2️⃣",
+        "materias": [
+          "Principios del Derecho del Trabajo",
+          "Tratados y Organismos Internacionales"
+        ]
+      },
+      {
+        "area": "Tercer Cuatrimestre",
+        "icono": "3️⃣",
+        "materias": [
+          "Derecho del Trabajo Administrativo y de la Administración Pública",
+          "Métodos Alternos de Solución de Controversias"
+        ]
+      },
+      {
+        "area": "Cuarto Cuatrimestre",
+        "icono": "4️⃣",
+        "materias": [
+          "Metodología de la Investigación Jurídica",
+          "Técnicas de Argumentación en el Procedimiento y Juicio Oral"
+        ]
+      },
+      {
+        "area": "Quinto Cuatrimestre",
+        "icono": "5️⃣",
+        "materias": [
+          "Derecho Procesal Laboral",
+          "Amparo Laboral"
+        ]
+      },
+      {
+        "area": "Sexto Cuatrimestre",
+        "icono": "6️⃣",
+        "materias": [
+          "La Prueba en Materia Laboral",
+          "Relaciones Individuales y Colectivas del Trabajo"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Dominio del marco legal laboral actualizado y de los derechos humanos en la empresa.",
+      "Manejo de relaciones individuales y colectivas, seguridad social y derecho burocrático.",
+      "Asesoría laboral estratégica y resolución de conflictos.",
+      "Litigación especializada y argumentación jurídica.",
+      "Elaboración de documentos legales y análisis de controversias laborales.",
+      "Implementación de estrategias y solución innovadora de conflictos laborales."
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏛️",
+        "titulo": "Tribunales laborales",
+        "texto": "Centros de conciliación y juzgados."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Áreas legales empresariales",
+        "texto": "Departamentos jurídicos y RH."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Sindicatos",
+        "texto": "Asesoría jurídica sindical."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Despachos laborales",
+        "texto": "Litigación y consultoría."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito tener título de licenciatura?",
+        "a": "Sí, es requisito de ingreso a cualquier maestría."
+      },
+      {
+        "q": "¿Es realmente 100% online?",
+        "a": "Sí, todo se realiza vía plataforma Moodle, sin sesiones presenciales obligatorias."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento de Validez Oficial ante la SEGE."
+      },
+      {
+        "q": "¿Cómo me titulo?",
+        "a": "Por tesis, proyecto de innovación o examen final."
+      },
+      {
+        "q": "¿Cuánto tiempo dura?",
+        "a": "Dos años distribuidos en cuatrimestres."
+      }
+    ],
+    "relacionadas": [
+      "maestria-derecho-penal",
+      "derecho",
+      "maestria-empresarial"
+    ]
+  },
+  "maestria-educacion": {
+    "nombre": "Educación",
+    "nombreCompleto": "Maestría en Educación",
+    "tipo": "Maestría",
+    "modalidad": "100% Online",
+    "tagline": "Forma a los formadores del futuro",
+    "descripcion": "Maestría diseñada para profesionales de la educación que buscan especializarse en gestión, innovación pedagógica y nuevas metodologías de enseñanza-aprendizaje. 100% online para docentes activos.",
+    "bannerImg": "img/BannerMaestriaEducacion.jpg",
+    "cardImg": "img/CarruselMaestriaEducacion.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "100",
+        "lbl": "Online",
+        "suffix": "%"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "5",
+        "lbl": "Ejes de especialización"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "📚",
+        "titulo": "Innovación pedagógica",
+        "texto": "Metodologías activas y aprendizaje significativo."
+      },
+      {
+        "icono": "💻",
+        "titulo": "Tecnología educativa",
+        "texto": "EdTech, plataformas y diseño instruccional."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes investigadores",
+        "texto": "Doctores con experiencia en investigación educativa."
+      },
+      {
+        "icono": "🌐",
+        "titulo": "100% Online",
+        "texto": "Ideal para docentes en activo."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Gestión educativa",
+        "texto": "Liderazgo de instituciones y proyectos."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Validez oficial RVOE",
+        "texto": "Reconocimiento ante la SEGE."
+      }
+    ],
+    "horario": "100% en línea, acceso 24/7",
+    "duracionTexto": "2 años · 6 cuatrimestres",
+    "incluye": "Plataforma Moodle, asesorías y tesis o proyecto",
+    "planEstudios": [
+      {
+        "area": "Primer Cuatrimestre",
+        "icono": "1️⃣",
+        "materias": [
+          "Aportaciones de las Teorías de Aprendizaje en las Nuevas Tecnologías",
+          "Comunicación y Nuevas Tecnologías y su Incidencia en las Organizaciones Educativas"
+        ]
+      },
+      {
+        "area": "Segundo Cuatrimestre",
+        "icono": "2️⃣",
+        "materias": [
+          "Modelos Pedagógicos",
+          "Uso de la Tecnología como Recurso para la Enseñanza"
+        ]
+      },
+      {
+        "area": "Tercer Cuatrimestre",
+        "icono": "3️⃣",
+        "materias": [
+          "La Evaluación del Aprendizaje en Entornos Virtuales",
+          "Diseño de Programas y Ambientes de Aprendizaje"
+        ]
+      },
+      {
+        "area": "Cuarto Cuatrimestre",
+        "icono": "4️⃣",
+        "materias": [
+          "Paradigmas de Investigación Educativa",
+          "Paradigmas Psicopedagógicos Contemporáneos"
+        ]
+      },
+      {
+        "area": "Quinto Cuatrimestre",
+        "icono": "5️⃣",
+        "materias": [
+          "Seminario de Investigación",
+          "Innovación y Cambio Educativo"
+        ]
+      },
+      {
+        "area": "Sexto Cuatrimestre",
+        "icono": "6️⃣",
+        "materias": [
+          "Procesos de Diseño y Desarrollo Curricular",
+          "Diseño y Creación de Material Multimedia"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Diseño de ambientes de aprendizaje digital e implementación de tecnología educativa.",
+      "Gestión de plataformas educativas y desarrollo de contenidos digitales.",
+      "Innovación educativa aplicada a entornos presenciales y virtuales.",
+      "Enseñanza en nivel medio superior, docencia universitaria y tutoría virtual.",
+      "Formación de talento humano y formación corporativa.",
+      "Capacidad para desarrollarse en educación superior, continua y e-learning."
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🏫",
+        "titulo": "Dirección académica",
+        "texto": "Coordinaciones, direcciones, rectorías."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Diseño curricular",
+        "texto": "Centros educativos y editoriales."
+      },
+      {
+        "icono": "💻",
+        "titulo": "EdTech",
+        "texto": "Plataformas educativas digitales."
+      },
+      {
+        "icono": "🔬",
+        "titulo": "Investigación",
+        "texto": "Centros y universidades."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito tener título de licenciatura?",
+        "a": "Sí, es requisito de ingreso a cualquier maestría."
+      },
+      {
+        "q": "¿Es realmente 100% online?",
+        "a": "Sí, todo se realiza vía plataforma Moodle, sin sesiones presenciales obligatorias."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento de Validez Oficial ante la SEGE."
+      },
+      {
+        "q": "¿Cómo me titulo?",
+        "a": "Por tesis, proyecto de innovación o examen final."
+      },
+      {
+        "q": "¿Cuánto tiempo dura?",
+        "a": "Dos años distribuidos en cuatrimestres."
+      }
+    ],
+    "relacionadas": [
+      "pedagogia",
+      "maestria-empresarial",
+      "psicologia"
+    ]
+  },
+  "bachillerato-escolarizado": {
+    "nombre": "Bachillerato Escolarizado",
+    "nombreCompleto": "Bachillerato Escolarizado (PrepaUDEP)",
+    "tipo": "Bachillerato",
+    "modalidad": "Escolarizada",
+    "tagline": "Tu primer paso hacia la universidad",
+    "descripcion": "PrepaUDEP escolarizada: programa de bachillerato general con énfasis en formación integral. De lunes a viernes, con Validez Oficial y preparación sólida para la universidad.",
+    "bannerImg": "img/BannerEscolarizada.jpg",
+    "cardImg": "img/Carrusel_Prepa.jpg",
+    "stats": [
+      {
+        "num": "3",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "6",
+        "lbl": "Semestres"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Bachillerato general"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🎯",
+        "titulo": "Atención personalizada",
+        "texto": "Grupos reducidos para garantizar un seguimiento individualizado."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Cuerpo docente excepcional",
+        "texto": "Profesores altamente calificados y experimentados."
+      },
+      {
+        "icono": "📈",
+        "titulo": "Seguimiento académico individualizado",
+        "texto": "Asesorías personalizadas para asegurar tu éxito."
+      },
+      {
+        "icono": "🔬",
+        "titulo": "Formación integral",
+        "texto": "Combina teoría y práctica en laboratorios para una educación completa."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Diploma adicional",
+        "texto": "Diploma en formación para el trabajo, elegible desde el 4º semestre."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Validez oficial",
+        "texto": "Reconocimiento oficial ante la SEGE."
+      }
+    ],
+    "horario": "De lunes a viernes",
+    "duracionTexto": "3 años · 6 semestres",
+    "incluye": "Talleres, asesorías y orientación vocacional",
+    "planEstudios": [
+      {
+        "area": "Primer Semestre",
+        "icono": "1️⃣",
+        "materias": [
+          "Materia y sus Interacciones",
+          "Ciencias Sociales I",
+          "Cultura Digital I",
+          "Pensamiento Matemático I",
+          "Lengua y Comunicación I",
+          "Inglés I",
+          "Humanidades I",
+          "Laboratorio de Investigación"
+        ]
+      },
+      {
+        "area": "Segundo Semestre",
+        "icono": "2️⃣",
+        "materias": [
+          "Conservación de la Energía y sus Interacciones con la Materia",
+          "Ciencias Sociales II",
+          "Cultura Digital II",
+          "Pensamiento Matemático II",
+          "Lengua y Comunicación II",
+          "Inglés II",
+          "Humanidades II",
+          "Taller de Ciencias I"
+        ]
+      },
+      {
+        "area": "Tercer Semestre",
+        "icono": "3️⃣",
+        "materias": [
+          "Ecosistemas: Interacciones, Energía y Dinámica",
+          "Pensamiento Matemático III",
+          "Lengua y Comunicación III",
+          "Inglés III",
+          "Humanidades III",
+          "Taller de Ciencias II",
+          "Gestión de Archivos de Texto",
+          "Hoja de Cálculo Aplicado"
+        ]
+      },
+      {
+        "area": "Cuarto Semestre",
+        "icono": "4️⃣",
+        "materias": [
+          "Reacciones Químicas: Conservación de la Materia en la Formación de Nuevas Sustancias",
+          "Conciencia Histórica I. Perspectivas del México Antiguo",
+          "Taller de Cultura Digital",
+          "Temas Selectos de Matemáticas I",
+          "Pensamiento Literario",
+          "Inglés IV",
+          "Espacio y Sociedad",
+          "Ciencias Sociales III",
+          "Comunidades Virtuales",
+          "Mantenimiento y Redes de Cómputo"
+        ]
+      },
+      {
+        "area": "Quinto Semestre",
+        "icono": "5️⃣",
+        "materias": [
+          "La Energía en los Procesos de la Vida Diaria",
+          "Conciencia Histórica II. México Durante el Expansionismo Capitalista",
+          "Cálculo Diferencial",
+          "Temas Selectos de Biología I",
+          "Ciencias de la Salud I",
+          "Derecho I",
+          "Sistemas de Información",
+          "Programación"
+        ]
+      },
+      {
+        "area": "Sexto Semestre",
+        "icono": "6️⃣",
+        "materias": [
+          "Organismos: Estructuras y Procesos. Herencia y Evolución Biológica",
+          "Conciencia Histórica III. La Realidad Actual en Perspectiva Histórica",
+          "Temas Selectos de Matemáticas II",
+          "Cálculo Integral",
+          "Temas Selectos de Biología II",
+          "Ciencias de la Salud II",
+          "Derecho II",
+          "Páginas Web",
+          "Diseño Digital"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Pensamiento crítico y analítico",
+      "Dominio de competencias comunicativas",
+      "Bases sólidas en ciencias y humanidades",
+      "Manejo de inglés intermedio",
+      "Habilidades digitales",
+      "Orientación vocacional clara"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🎓",
+        "titulo": "Acceso a la universidad",
+        "texto": "Preparación sólida para continuar estudios superiores."
+      },
+      {
+        "icono": "🤝",
+        "titulo": "Integración social",
+        "texto": "Comparte experiencias con compañeros de tu misma edad."
+      },
+      {
+        "icono": "🎭",
+        "titulo": "Desarrollo de intereses",
+        "texto": "Actividades culturales, programas deportivos e iniciativas ecológicas."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito secundaria terminada?",
+        "a": "Sí, ingresan estudiantes con certificado de secundaria."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Realizamos un examen diagnóstico y entrevista."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiar de modalidad?",
+        "a": "Sí, ofrecemos Escolarizado, Sabatino, Dominical y En Línea."
+      }
+    ],
+    "relacionadas": [
+      "bachillerato-sabatino",
+      "bachillerato-dominical",
+      "bachillerato-linea"
+    ]
+  },
+  "bachillerato-sabatino": {
+    "nombre": "Bachillerato Sabatino",
+    "nombreCompleto": "Bachillerato Sabatino (PrepaUDEP)",
+    "tipo": "Bachillerato",
+    "modalidad": "Sabatino",
+    "tagline": "Termina tu prepa en sábados",
+    "descripcion": "PrepaUDEP sabatino: programa ideal para quienes trabajan o tienen actividades entre semana. Concluye tu bachillerato asistiendo solo los sábados, con Validez Oficial y plan de estudios completo.",
+    "bannerImg": "img/BannerSabatinaMatutina.jpg",
+    "cardImg": "img/CarruselBachSabatino.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "1",
+        "lbl": "Día por semana"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "2",
+        "lbl": "Turnos disponibles"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "⏱️",
+        "titulo": "Concluye en menor tiempo",
+        "texto": "Termina tu bachillerato en solo 18 meses."
+      },
+      {
+        "icono": "⚖️",
+        "titulo": "Equilibra trabajo y estudio",
+        "texto": "Horarios que te permiten estudiar mientras trabajas."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Validez oficial",
+        "texto": "Certificado con reconocimiento de la SEGE."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Preparación universitaria",
+        "texto": "Prepárate para continuar con tus estudios superiores."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Profesores capacitados",
+        "texto": "Docentes especializados y material didáctico actualizado."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Instalaciones modernas",
+        "texto": "Infraestructura equipada y asesorías personalizadas."
+      }
+    ],
+    "horario": "Sábados",
+    "duracionTexto": "18 meses",
+    "incluye": "Materiales digitales y asesorías en línea",
+    "planEstudios": [
+      {
+        "area": "Plan de Estudios",
+        "icono": "📅",
+        "materias": [
+          "Álgebra",
+          "Biología",
+          "Cálculo Diferencial",
+          "Cálculo Integral",
+          "Contabilidad I",
+          "Contabilidad II",
+          "Contabilidad III",
+          "Ecología y Medio Ambiente",
+          "Estrategias de Lectura y Escritura",
+          "Estructura Socioeconómica de México",
+          "Ética y Valores",
+          "Filosofía",
+          "Física",
+          "Funciones",
+          "Geografía",
+          "Geometría Analítica",
+          "Historia de México",
+          "Historia Universal Contemporánea",
+          "Introducción a Formación para el Trabajo",
+          "Introducción a las Ciencias Sociales",
+          "Lengua Adicional al Español I",
+          "Lengua Adicional al Español II",
+          "Taller de Lectura y Redacción",
+          "Tecnologías de la Información y Comunicación",
+          "Temas Selectos de Ciencia de la Salud",
+          "Trigonometría"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Competencias para acceso a universidad",
+      "Madurez para estudios superiores",
+      "Pensamiento analítico",
+      "Manejo de TICs",
+      "Comunicación efectiva"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🎓",
+        "titulo": "Acceso a la universidad",
+        "texto": "Continúa con tus estudios de educación superior."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Mejores oportunidades",
+        "texto": "Accede a mejores empleos con tu certificado oficial."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito secundaria terminada?",
+        "a": "Sí, ingresan estudiantes con certificado de secundaria."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Realizamos un examen diagnóstico y entrevista."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiar de modalidad?",
+        "a": "Sí, ofrecemos Escolarizado, Sabatino, Dominical y En Línea."
+      }
+    ],
+    "relacionadas": [
+      "bachillerato-dominical",
+      "bachillerato-linea",
+      "bachillerato-escolarizado"
+    ]
+  },
+  "bachillerato-dominical": {
+    "nombre": "Bachillerato Dominical",
+    "nombreCompleto": "Bachillerato Dominical (PrepaUDEP)",
+    "tipo": "Bachillerato",
+    "modalidad": "Dominical",
+    "tagline": "Termina tu prepa en domingos",
+    "descripcion": "PrepaUDEP dominical: para quienes trabajan los sábados y necesitan flexibilidad. Asiste solo los domingos y concluye tu bachillerato con Validez Oficial.",
+    "bannerImg": "img/BannerSabatinaVespertina.jpg",
+    "cardImg": "img/CarruselBachDominical.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "1",
+        "lbl": "Día por semana"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "1",
+        "lbl": "Domingos"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "☀️",
+        "titulo": "Aprovecha tu domingo",
+        "texto": "Invierte un día a la semana en tu futuro."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Sin interrumpir tu rutina",
+        "texto": "Mantén tu rutina laboral durante la semana."
+      },
+      {
+        "icono": "🏛️",
+        "titulo": "Validez oficial",
+        "texto": "Certificado con reconocimiento de la SEGE."
+      },
+      {
+        "icono": "🎓",
+        "titulo": "Puerta a la universidad",
+        "texto": "Abre las puertas a tu educación superior."
+      },
+      {
+        "icono": "👨‍🏫",
+        "titulo": "Docentes para adultos",
+        "texto": "Especializados en educación para adultos."
+      },
+      {
+        "icono": "🏢",
+        "titulo": "Infraestructura moderna",
+        "texto": "Apoyo académico personalizado y recursos actualizados."
+      }
+    ],
+    "horario": "Domingos",
+    "duracionTexto": "18 meses",
+    "incluye": "Materiales digitales y asesorías en línea",
+    "planEstudios": [
+      {
+        "area": "Plan de Estudios",
+        "icono": "📅",
+        "materias": [
+          "Álgebra",
+          "Biología",
+          "Cálculo Diferencial",
+          "Cálculo Integral",
+          "Contabilidad I",
+          "Contabilidad II",
+          "Contabilidad III",
+          "Ecología y Medio Ambiente",
+          "Estrategias de Lectura y Escritura",
+          "Estructura Socioeconómica de México",
+          "Ética y Valores",
+          "Filosofía",
+          "Física",
+          "Funciones",
+          "Geografía",
+          "Geometría Analítica",
+          "Historia de México",
+          "Historia Universal Contemporánea",
+          "Introducción a Formación para el Trabajo",
+          "Introducción a las Ciencias Sociales",
+          "Lengua Adicional al Español I",
+          "Lengua Adicional al Español II",
+          "Taller de Lectura y Redacción",
+          "Tecnologías de la Información y Comunicación",
+          "Temas Selectos de Ciencia de la Salud",
+          "Trigonometría"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Competencias para acceso a universidad",
+      "Madurez para estudios superiores",
+      "Pensamiento analítico",
+      "Manejo de TICs",
+      "Comunicación efectiva"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🎓",
+        "titulo": "Acceso a la universidad",
+        "texto": "Continúa con tus estudios de educación superior."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Mejores oportunidades",
+        "texto": "Accede a mejores empleos con tu certificado oficial."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito secundaria terminada?",
+        "a": "Sí, ingresan estudiantes con certificado de secundaria."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Realizamos un examen diagnóstico y entrevista."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiar de modalidad?",
+        "a": "Sí, ofrecemos Escolarizado, Sabatino, Dominical y En Línea."
+      }
+    ],
+    "relacionadas": [
+      "bachillerato-sabatino",
+      "bachillerato-linea",
+      "bachillerato-escolarizado"
+    ]
+  },
+  "bachillerato-linea": {
+    "nombre": "Bachillerato en Línea",
+    "nombreCompleto": "Bachillerato en Línea (PrepaUDEP)",
+    "tipo": "Bachillerato",
+    "modalidad": "En Línea",
+    "tagline": "Tu prepa, totalmente online",
+    "descripcion": "PrepaUDEP en línea: estudia 100% online desde donde estés. Plataforma Moodle, sin horarios fijos, con Validez Oficial. Ideal si vives lejos de SLP o tienes agenda completa.",
+    "bannerImg": "img/BannerBachNoEscolarizado.jpg",
+    "cardImg": "img/CarruselBachLinea.jpg",
+    "stats": [
+      {
+        "num": "2",
+        "lbl": "Años de duración"
+      },
+      {
+        "num": "100",
+        "lbl": "Online",
+        "suffix": "%"
+      },
+      {
+        "num": "100",
+        "lbl": "Con RVOE",
+        "suffix": "%"
+      },
+      {
+        "num": "24",
+        "lbl": "Plataforma",
+        "suffix": "/7"
+      }
+    ],
+    "ventajas": [
+      {
+        "icono": "🌍",
+        "titulo": "Estudia desde cualquier lugar",
+        "texto": "Sin fronteras, a tu propio ritmo."
+      },
+      {
+        "icono": "⏱️",
+        "titulo": "Ahorra tiempo y traslados",
+        "texto": "Reduce costos y tiempos de desplazamiento."
+      },
+      {
+        "icono": "💻",
+        "titulo": "Habilidades digitales",
+        "texto": "Desarrolla competencias tecnológicas mientras estudias."
+      },
+      {
+        "icono": "🕐",
+        "titulo": "Flexibilidad total",
+        "texto": "Acceso permanente 24/7 a la plataforma educativa."
+      },
+      {
+        "icono": "📊",
+        "titulo": "Seguimiento personalizado",
+        "texto": "Monitoreo continuo de tu progreso."
+      },
+      {
+        "icono": "📚",
+        "titulo": "Biblioteca digital",
+        "texto": "Material multimedia e interactivo especializado."
+      }
+    ],
+    "horario": "100% en línea, acceso 24/7",
+    "duracionTexto": "18 meses",
+    "incluye": "Plataforma Moodle, asesorías y evaluaciones",
+    "planEstudios": [
+      {
+        "area": "Plan de Estudios",
+        "icono": "💻",
+        "materias": [
+          "Álgebra",
+          "Biología",
+          "Cálculo Diferencial",
+          "Cálculo Integral",
+          "Contabilidad I",
+          "Contabilidad II",
+          "Contabilidad III",
+          "Ecología y Medio Ambiente",
+          "Estrategias de Lectura y Escritura",
+          "Estructura Socioeconómica de México",
+          "Ética y Valores",
+          "Filosofía",
+          "Física",
+          "Funciones",
+          "Geografía",
+          "Geometría Analítica",
+          "Historia de México",
+          "Historia Universal Contemporánea",
+          "Introducción a Formación para el Trabajo",
+          "Introducción a las Ciencias Sociales",
+          "Lengua Adicional al Español I",
+          "Lengua Adicional al Español II",
+          "Taller de Lectura y Redacción",
+          "Tecnologías de la Información y Comunicación",
+          "Temas Selectos de Ciencia de la Salud",
+          "Trigonometría"
+        ]
+      }
+    ],
+    "perfilEgreso": [
+      "Competencias digitales avanzadas",
+      "Autonomía de aprendizaje",
+      "Pensamiento analítico",
+      "Manejo de plataformas educativas",
+      "Comunicación efectiva",
+      "Acceso a universidad"
+    ],
+    "campoLaboral": [
+      {
+        "icono": "🎓",
+        "titulo": "Acceso a la universidad",
+        "texto": "Continúa con tus estudios de educación superior."
+      },
+      {
+        "icono": "💼",
+        "titulo": "Mejores oportunidades",
+        "texto": "Accede a mejores empleos con tu certificado oficial."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito secundaria terminada?",
+        "a": "Sí, ingresan estudiantes con certificado de secundaria."
+      },
+      {
+        "q": "¿Hay examen de admisión?",
+        "a": "Realizamos un examen diagnóstico y entrevista."
+      },
+      {
+        "q": "¿Tiene RVOE?",
+        "a": "Sí, con Reconocimiento ante la SEGE."
+      },
+      {
+        "q": "¿Puedo cambiar de modalidad?",
+        "a": "Sí, ofrecemos Escolarizado, Sabatino, Dominical y En Línea."
+      }
+    ],
+    "relacionadas": [
+      "bachillerato-sabatino",
+      "bachillerato-dominical",
+      "bachillerato-escolarizado"
+    ]
+  }
+}

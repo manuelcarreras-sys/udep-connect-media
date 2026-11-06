@@ -1,0 +1,22 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-14T18:00:00",
+  "salida": "carruseles/2026-11-14-como-funciona",
+  "slides": [
+    {"tipo": "portada", "etiqueta": "PASO A PASO", "titulo": "¿Cómo funciona UDEP Connect?", "sub": "Estudiar en línea es más fácil de lo que crees"},
+    {"tipo": "lista", "titulo": "Así empiezas", "items": [
+      ["1. Pide informes", "por WhatsApp al 444 519 3359"],
+      ["2. Inscríbete", "con Beca UDEP la inscripción es GRATIS"],
+      ["3. Recibe tu acceso", "a la plataforma UDEP Connect"]]},
+    {"tipo": "lista", "titulo": "Y así estudias", "items": [
+      ["4. Estudia a tu ritmo", "plataforma abierta 24/7, desde tu celular"],
+      ["5. Resuelve tus dudas", "contacto directo con tus maestros"],
+      ["6. Obtén tu documento", "con validez oficial, RVOE ante la SEGE"]]},
+    {"tipo": "lista", "titulo": "Costo normal y con Beca UDEP", "items": [
+      ["Bachillerato: $1,300 al mes", "costo normal $2,370 al mes"],
+      ["Licenciatura: $1,400 al mes", "costo normal $4,300 al mes"],
+      ["Maestría: $2,120 al mes", "costo normal $4,320 al mes"]]},
+    {"tipo": "cierre", "titulo": "Inscripción GRATIS con Beca UDEP"}
+  ],
+  "texto": "¿Cómo funciona estudiar en UDEP Connect? Te lo explicamos paso a paso 👇\n\n1️⃣ Pide informes por WhatsApp\n2️⃣ Inscríbete (con Beca UDEP la inscripción es GRATIS)\n3️⃣ Recibe tu acceso a la plataforma\n4️⃣ Estudia a tu ritmo, 24/7, desde tu celular o computadora\n5️⃣ Resuelve tus dudas con tus maestros\n6️⃣ Obtén tu documento con validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal → con Beca UDEP:\n• Bachillerato: $2,370 → $1,300 al mes\n• Licenciatura: $4,300 → $1,400 al mes\n• Maestría: $4,320 → $2,120 al mes\n\n📲 WhatsApp: 444 519 3359\n\n#UDEPConnect #EstudiaEnLinea #SanLuisPotosi #ValidezOficial #EducacionEnLinea"
+}

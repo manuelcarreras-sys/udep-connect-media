@@ -1,0 +1,14 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-18T19:00:00",
+  "salida": "reels/2026-11-18-contaduria",
+  "escenas": [
+    {"tipo": "gancho", "dur": 3.0, "lineas": ["¿Eres bueno", "con los números?"], "sub": "Estudia Contaduría 100% en línea."},
+    {"tipo": "pastilla", "dur": 3.5, "titulo": "Estudia", "pastilla": "CONTADURÍA EN LÍNEA", "materias": ["Contabilidad", "Impuestos", "Auditoría"]},
+    {"tipo": "checks", "dur": 4.0, "titulo": "Lo que vas a hacer", "items": [
+      ["Estados financieros", "y planeación fiscal"], ["Auditoría", "administrativa y financiera"], ["Trabaja o emprende", "sector privado o público"]]},
+    {"tipo": "precio", "dur": 4.0, "normal": "$4,300 al mes", "beca": "$1,400 al mes"},
+    {"tipo": "cierre", "dur": 4.5, "programas": "Contador Público y Auditor\n100% en línea con RVOE"}
+  ],
+  "texto": "¿Eres bueno con los números? 📊 Estudia la Licenciatura en Contador Público y Auditor 100% en línea con UDEP Connect.\n\nLo que vas a hacer:\n• Elaborar estados financieros\n• Planeación fiscal y cumplimiento de obligaciones\n• Auditoría administrativa y financiera\n• Control presupuestal\n\nPuedes trabajar en el sector privado, el sector público, consultoría o emprender tu propio despacho.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #Contaduria #ContadorPublico #LicenciaturaEnLinea #SanLuisPotosi #ValidezOficial"
+}

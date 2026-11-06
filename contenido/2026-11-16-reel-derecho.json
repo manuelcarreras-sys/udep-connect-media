@@ -1,0 +1,14 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-16T19:00:00",
+  "salida": "reels/2026-11-16-derecho",
+  "escenas": [
+    {"tipo": "gancho", "dur": 3.0, "lineas": ["¿Te gustaría", "ser abogado?"], "sub": "Estudia Derecho 100% en línea."},
+    {"tipo": "pastilla", "dur": 3.5, "titulo": "Estudia", "pastilla": "DERECHO EN LÍNEA", "materias": ["Derecho Constitucional", "Derecho Penal", "Derecho de Amparo"]},
+    {"tipo": "checks", "dur": 4.0, "titulo": "¿Dónde puedes trabajar?", "items": [
+      ["Poder Judicial", "federal o estatal"], ["Despachos y empresas", "área legal y bufetes"], ["Notarías y mediación", "y Poder Legislativo"]]},
+    {"tipo": "precio", "dur": 4.0, "normal": "$4,300 al mes", "beca": "$1,400 al mes"},
+    {"tipo": "cierre", "dur": 4.5, "programas": "Licenciatura en Derecho\n100% en línea con RVOE"}
+  ],
+  "texto": "¿Te gustaría ser abogado? ⚖️ Estudia la Licenciatura en Derecho 100% en línea con UDEP Connect.\n\n¿Dónde puedes trabajar?\n• Poder Judicial, federal o estatal\n• Despachos y bufetes\n• Área legal de empresas\n• Notarías y correduría\n• Mediación\n• Poder Legislativo\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #DerechoEnLinea #Abogado #LicenciaturaEnLinea #SanLuisPotosi #ValidezOficial"
+}

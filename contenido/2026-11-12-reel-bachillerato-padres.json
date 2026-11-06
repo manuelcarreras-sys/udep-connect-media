@@ -1,0 +1,14 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-12T19:00:00",
+  "salida": "reels/2026-11-12-bachillerato-padres",
+  "escenas": [
+    {"tipo": "gancho", "dur": 3.0, "lineas": ["¿Eres mamá o papá", "y no terminaste", "la prepa?"], "tam": 96, "sub": "Nunca es tarde para terminarla."},
+    {"tipo": "pastilla", "dur": 3.5, "titulo": "Termina tu", "pastilla": "PREPA EN LÍNEA", "materias": ["Matemáticas", "Español", "Historia"]},
+    {"tipo": "checks", "dur": 4.0, "titulo": "A tu ritmo y sin descuidar tu casa", "items": [
+      ["Sin horarios fijos", "estudia cuando puedas"], ["Desde tu celular", "plataforma abierta 24/7"], ["En 2 años", "con validez oficial"]]},
+    {"tipo": "precio", "dur": 4.0, "normal": "$2,370 al mes", "beca": "$1,300 al mes"},
+    {"tipo": "cierre", "dur": 4.5, "programas": "Bachillerato 100% en línea\ncon validez oficial"}
+  ],
+  "texto": "¿Eres mamá o papá y no terminaste la prepa? Nunca es tarde 💪\n\nCon UDEP Connect terminas tu bachillerato 100% en línea, sin descuidar tu casa ni tu trabajo:\n✅ Sin horarios fijos: estudias cuando puedas\n✅ Desde tu celular, plataforma abierta 24/7\n✅ En 2 años\n✅ Validez oficial (RVOE ante la SEGE)\n\nSolo necesitas tu certificado de secundaria.\n\n💰 Costo normal: $2,370 al mes. Con Beca UDEP pagas solo $1,300 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #PrepaEnLinea #BachilleratoEnLinea #SanLuisPotosi #NuncaEsTarde #ValidezOficial"
+}

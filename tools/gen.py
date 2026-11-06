@@ -146,12 +146,18 @@ RW, RH = 1080, 1920
 
 def sc_gancho(t, p, img, d):
     lines = p["lineas"]
-    f = F(PB, p.get("tam", 112))
-    y0 = 760 - len(lines) * 75
+    size = p.get("tam", 112)
+    # cada linea en un solo renglon: reducir tamaño hasta que todas quepan
+    for ln in lines:
+        size = min(size, fit(d, ln, PB, size, RW - 140).size)
+    f = F(PB, size)
+    lh = f.size * 1.2
+    y0 = 760 - len(lines) * lh / 2
     for i, ln in enumerate(lines):
         e = ease_back(prog(t, 0.15 + i * 0.3, 0.5))
-        text_block(d, RW, y0 + i * f.size * 1.2 + (1 - e) * 120, ln, f, WHITE, alpha=255 * clamp(e))
-    yb = y0 + len(lines) * f.size * 1.2 + 15
+        w = d.textlength(ln, font=f)
+        d.text(((RW - w) / 2, y0 + i * lh + (1 - e) * 120), ln, font=f, fill=WHITE + (int(255 * clamp(e)),))
+    yb = y0 + len(lines) * lh + 15
     e2 = ease_out(prog(t, 0.9, 0.6))
     d.rounded_rectangle([RW / 2 - 300 * e2, yb, RW / 2 + 300 * e2, yb + 16], radius=8, fill=ORANGE + (255,))
     if p.get("sub"):
@@ -286,8 +292,8 @@ def sl_lista(s, img, d):
         check_icon(d, 110, y + 10, 0.85, 255)
         fy = text_block(d, CW, y, tit, F(PB, 50), WHITE, align="left", x0=210, maxw=CW - 290)
         if sub:
-            text_block(d, CW, fy, sub, F(PM, 36), SOFT, align="left", x0=210, maxw=CW - 290)
-        y += step
+            fy = text_block(d, CW, fy, sub, F(PM, 36), SOFT, align="left", x0=210, maxw=CW - 290)
+        y = max(y + step, fy + 40)
 
 def sl_mito(s, img, d):
     pill(d, CW / 2, 250, s.get("etiqueta", "MITO"), F(PB, 42), color=(120, 130, 155))

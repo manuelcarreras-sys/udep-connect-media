@@ -1,0 +1,18 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-17T19:00:00",
+  "salida": "carruseles/2026-11-17-maestria-educacion",
+  "slides": [
+    {"tipo": "portada", "etiqueta": "PARA DOCENTES", "titulo": "Maestría en Educación 100% en línea", "sub": "2 años · con validez oficial"},
+    {"tipo": "lista", "titulo": "Lo que vas a dominar", "items": [
+      "Tecnología educativa y ambientes de aprendizaje digital",
+      "Gestión de plataformas y contenidos digitales",
+      "Innovación educativa presencial y virtual",
+      "Docencia universitaria y tutoría virtual"]},
+    {"tipo": "lista", "titulo": "¿Dónde puedes crecer?", "items": [
+      "Dirección académica", "Diseño curricular", "Tecnología educativa", "Investigación"]},
+    {"tipo": "precio", "programa": "Maestría en Educación", "normal": "$4,320 al mes", "beca": "$2,120 al mes"},
+    {"tipo": "cierre", "titulo": "Requisito: título de licenciatura"}
+  ],
+  "texto": "¿Eres maestro o maestra y quieres crecer profesionalmente? 📚\n\nHaz la Maestría en Educación 100% en línea con UDEP Connect, en solo 2 años.\n\nLo que vas a dominar:\n• Tecnología educativa y ambientes de aprendizaje digital\n• Gestión de plataformas y contenidos digitales\n• Innovación educativa presencial y virtual\n• Docencia universitaria y tutoría virtual\n\n¿Dónde puedes crecer? Dirección académica, diseño curricular, tecnología educativa e investigación.\n\n💰 Costo normal: $4,320 al mes. Con Beca UDEP pagas solo $2,120 al mes y tu inscripción es GRATIS.\n\n✅ Validez oficial (RVOE ante la SEGE)\n🎓 Requisito: título de licenciatura\n📲 WhatsApp: 444 519 3359\n\n#UDEPConnect #MaestriaEnEducacion #Docentes #MaestriaEnLinea #SanLuisPotosi #ValidezOficial"
+}
