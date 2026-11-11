@@ -1,0 +1,58 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-24T19:00:00",
+  "salida": "reels/2026-11-24-maestrias-derecho",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "Abogado:",
+        "especialízate"
+      ],
+      "sub": "Maestría en Derecho Penal o Laboral, 100% en línea."
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Elige tu",
+      "pastilla": "MAESTRÍA EN DERECHO",
+      "materias": [
+        "Derecho Penal",
+        "Derecho Laboral",
+        "Juicio Oral"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "Lo que vas a dominar",
+      "items": [
+        [
+          "Derecho Penal",
+          "sistema penal acusatorio"
+        ],
+        [
+          "Derecho Laboral",
+          "reforma laboral y conciliación"
+        ],
+        [
+          "En 2 años",
+          "titúlate por tesis o examen"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$4,320 al mes",
+      "beca": "$2,120 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Maestría en Derecho Penal\no Laboral, con RVOE"
+    }
+  ],
+  "texto": "Abogado, abogada: es momento de especializarte ⚖️\n\nHaz tu maestría 100% en línea con UDEP Connect, en solo 2 años:\n\n🔹 Maestría en Derecho Penal: sistema penal acusatorio, argumentación jurídica y juicios orales. Campo laboral: Poder Judicial, Fiscalía, Defensoría pública y despachos especializados.\n\n🔹 Maestría en Derecho Laboral: reforma laboral, negociación colectiva y resolución de conflictos. Campo laboral: tribunales y centros de conciliación, áreas legales de empresas, sindicatos y despachos laborales.\n\n🎓 Titúlate por tesis, proyecto de innovación o examen final\n✅ Validez oficial (RVOE ante la SEGE)\n📌 Requisito: título de licenciatura\n\n💰 Costo normal: $4,320 al mes. Con Beca UDEP pagas solo $2,120 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #MaestriaEnDerecho #DerechoPenal #DerechoLaboral #MaestriaEnLinea #SanLuisPotosi"
+}

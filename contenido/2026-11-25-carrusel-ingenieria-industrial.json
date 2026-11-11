@@ -1,0 +1,52 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-25T19:00:00",
+  "salida": "carruseles/2026-11-25-ingenieria-industrial",
+  "slides": [
+    {
+      "tipo": "portada",
+      "etiqueta": "INGENIERÍA INDUSTRIAL",
+      "titulo": "Ingeniería Industrial 100% en línea",
+      "sub": "3 años · con validez oficial"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que vas a dominar",
+      "items": [
+        "Diseño y mejora de sistemas productivos",
+        "Control estadístico de calidad",
+        "Optimización de cadenas de suministro",
+        "Manufactura esbelta"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Dónde puedes trabajar?",
+      "items": [
+        [
+          "Seguridad industrial",
+          "seguridad y salud en el trabajo"
+        ],
+        [
+          "Logística",
+          "cadena de suministro y distribución"
+        ],
+        [
+          "Gestión de equipos",
+          "talento humano y administración"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "programa": "Ingeniería Industrial",
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Optimiza procesos y lidera la productividad"
+    }
+  ],
+  "texto": "¿Te gusta encontrar la forma de hacer las cosas mejor y más rápido? ⚙️ Estudia la Licenciatura en Ingeniería Industrial 100% en línea con UDEP Connect.\n\nLo que vas a dominar:\n• Diseño y mejora de sistemas productivos\n• Control estadístico de calidad\n• Optimización de cadenas de suministro\n• Manufactura esbelta\n\n¿Dónde puedes trabajar? Seguridad industrial, logística y distribución, gestión del talento humano y gestión administrativa.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #IngenieriaIndustrial #LicenciaturaEnLinea #SanLuisPotosi #EstudiaEnLinea #ValidezOficial"
+}

@@ -1,0 +1,60 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-23T19:00:00",
+  "salida": "carruseles/2026-11-23-bachillerato-requisitos",
+  "slides": [
+    {
+      "tipo": "portada",
+      "etiqueta": "PREPA EN LÍNEA",
+      "titulo": "¿Qué necesitas para inscribirte?",
+      "sub": "Es más fácil de lo que crees"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que necesitas",
+      "items": [
+        [
+          "Certificado de secundaria",
+          "es el requisito para entrar"
+        ],
+        [
+          "Examen diagnóstico",
+          "y una entrevista"
+        ],
+        [
+          "Celular o computadora",
+          "para entrar a la plataforma"
+        ]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Pasos para inscribirte",
+      "items": [
+        [
+          "1. Escríbenos",
+          "WhatsApp 444 519 3359"
+        ],
+        [
+          "2. Inscríbete",
+          "con Beca UDEP la inscripción es GRATIS"
+        ],
+        [
+          "3. Empieza a estudiar",
+          "plataforma Moodle abierta 24/7"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "programa": "Bachillerato en línea",
+      "normal": "$2,370 al mes",
+      "beca": "$1,300 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Termina tu prepa en 2 años con validez oficial"
+    }
+  ],
+  "texto": "¿Quieres terminar la prepa en línea? Esto es lo que necesitas para inscribirte 👇\n\n📄 Requisitos:\n• Certificado de secundaria\n• Examen diagnóstico y entrevista\n• Celular o computadora para entrar a la plataforma\n\n📝 Pasos:\n1️⃣ Escríbenos por WhatsApp\n2️⃣ Inscríbete (con Beca UDEP la inscripción es GRATIS)\n3️⃣ Empieza a estudiar en la plataforma, abierta 24/7\n\n✅ Terminas en 2 años\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $2,370 al mes. Con Beca UDEP pagas solo $1,300 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #PrepaEnLinea #BachilleratoEnLinea #SanLuisPotosi #TerminaTuPrepa #ValidezOficial"
+}

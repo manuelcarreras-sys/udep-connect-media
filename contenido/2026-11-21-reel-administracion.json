@@ -1,0 +1,59 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-21T18:00:00",
+  "salida": "reels/2026-11-21-administracion",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "¿Sueñas con tu",
+        "propio negocio?"
+      ],
+      "tam": 104,
+      "sub": "Estudia Administración en línea."
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Estudia",
+      "pastilla": "ADMINISTRACIÓN",
+      "materias": [
+        "Finanzas",
+        "Mercadotecnia",
+        "Recursos Humanos"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "¿Dónde puedes trabajar?",
+      "items": [
+        [
+          "Empresas privadas",
+          "finanzas, ventas y RH"
+        ],
+        [
+          "Tu propio negocio",
+          "emprende o asóciate"
+        ],
+        [
+          "Consultoría",
+          "y sector público"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Administración y Gestión\nEmpresarial con RVOE"
+    }
+  ],
+  "texto": "¿Sueñas con tener tu propio negocio o dirigir una empresa? 💼 Estudia la Licenciatura en Administración y Gestión Empresarial 100% en línea con UDEP Connect.\n\nLo que vas a aprender:\n• Planeación estratégica de empresas\n• Gestión de recursos humanos, financieros y materiales\n• Análisis de mercados y oportunidades\n• Emprendimiento y desarrollo de proyectos\n\nPuedes trabajar en empresas privadas, instituciones públicas, consultoría, comercio internacional o emprender tu propio negocio.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #Administracion #Emprendimiento #LicenciaturaEnLinea #SanLuisPotosi #ValidezOficial"
+}
