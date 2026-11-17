@@ -11,11 +11,13 @@
 | 2026-11-14 18:00 | Carrusel (5) | General | Cómo funciona UDEP Connect + costos | contenido/2026-11-14-carrusel-como-funciona.json | 418428524 |
 | 2026-11-16 19:00 | Reel | Lic. Derecho | ¿Te gustaría ser abogado? | contenido/2026-11-16-reel-derecho.json | 418428535 |
 | 2026-11-17 19:00 | Carrusel (5) | Maestría en Educación | Para docentes | contenido/2026-11-17-carrusel-maestria-educacion.json | 418428544 |
-| 2026-11-18 19:00 | Reel | Lic. Contaduría | ¿Eres bueno con los números? | contenido/2026-11-18-reel-contaduria.json | 418428555 |
-| 2026-11-19 19:00 | Carrusel (6) | General | Preguntas frecuentes (requisitos, duración, celular, costos) | contenido/2026-11-19-carrusel-preguntas-frecuentes.json | 423923548 |
-| 2026-11-21 18:00 | Reel | Lic. Administración | ¿Sueñas con tu propio negocio? | contenido/2026-11-21-reel-administracion.json | 423923789 |
-| 2026-11-23 19:00 | Carrusel (5) | Bachillerato | ¿Qué necesitas para inscribirte? Requisitos y pasos | contenido/2026-11-23-carrusel-bachillerato-requisitos.json | 423923802 |
-| 2026-11-24 19:00 | Reel | Maestrías Derecho Penal y Laboral | Abogado: especialízate | contenido/2026-11-24-reel-maestrias-derecho.json | 423923815 |
-| 2026-11-25 19:00 | Carrusel (5) | Lic. Ing. Industrial | Ingeniería Industrial 100% en línea: qué dominas y dónde trabajas | contenido/2026-11-25-carrusel-ingenieria-industrial.json | 423923826 |
+| 2026-11-18 19:00 | Reel | Lic. Contaduría | ¿Eres bueno con los números? | contenido/2026-11-18-reel-contaduria.json | 431059223 |
+| 2026-11-19 19:00 | Carrusel (6) | General | Preguntas frecuentes (requisitos, duración, celular, costos) | contenido/2026-11-19-carrusel-preguntas-frecuentes.json | 431059537 |
+| 2026-11-21 18:00 | Reel | Lic. Administración | ¿Sueñas con tu propio negocio? | contenido/2026-11-21-reel-administracion.json | 431059547 |
+| 2026-11-23 19:00 | Carrusel (5) | Bachillerato | ¿Qué necesitas para inscribirte? Requisitos y pasos | contenido/2026-11-23-carrusel-bachillerato-requisitos.json | 431059555 |
+| 2026-11-24 19:00 | Reel | Maestrías Derecho Penal y Laboral | Abogado: especialízate | contenido/2026-11-24-reel-maestrias-derecho.json | 431059568 |
+| 2026-11-25 19:00 | Carrusel (5) | Lic. Ing. Industrial | Ingeniería Industrial 100% en línea: qué dominas y dónde trabajas | contenido/2026-11-25-carrusel-ingenieria-industrial.json | 431059579 |
+
+Nota 2026-11-17: las publicaciones del 18 al 25 de noviembre se rehicieron con el diseño de dispositivos (archivos -v2) y se actualizaron en Metricool sin cambiar fecha, hora ni texto; por eso cambiaron sus IDs.
 
 **Conteo noviembre 2026: 15 de 20**
