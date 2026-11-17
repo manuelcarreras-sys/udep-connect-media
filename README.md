@@ -5,7 +5,7 @@ Nunca subir documentos internos, hojas de precios, datos de alumnos ni contrase�
 
 ## Estructura
 - `marca/` logos de UDEP Connect (original y versión blanca para fondos oscuros)
-- `tools/gen.py` generador de Reels (1080x1920) y carruseles (1080x1350)
+- `tools/gen.py` generador de Reels (1080x1920) y carruseles (1080x1350). Incluye ilustraciones de dispositivos (laptop con clase en video, monitor, celular con chat, tablet, insignias). En cada lámina/escena se puede elegir con `"ilustracion": "clase" | "panel" | "movil"` o quitarla con `"ilustracion": false`.
 - `contenido/AAAA-MM-DD-*.json` contenido de cada publicación: diseño + texto + fecha
 - `reels/`, `carruseles/` archivos finales (Metricool los toma desde raw.githubusercontent.com)
 - `REGISTRO.md` publicaciones programadas (para no repetir temas y respetar el límite mensual)
