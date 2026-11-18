@@ -1,0 +1,58 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-29T18:00:00",
+  "salida": "reels/2026-11-29-centros-salud",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "¿Te gustaría",
+        "dirigir una clínica?"
+      ],
+      "sub": "Licenciatura 100% en línea."
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Estudia",
+      "pastilla": "CENTROS DE SALUD",
+      "materias": [
+        "Sistemas de Salud",
+        "Calidad",
+        "Bioética"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "¿Dónde puedes trabajar?",
+      "items": [
+        [
+          "Hospitales y clínicas",
+          "gestión y administración"
+        ],
+        [
+          "Centros de salud",
+          "públicos y privados"
+        ],
+        [
+          "Organismos de salud",
+          "y salud comunitaria"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Administración de Centros\nde Salud con RVOE"
+    }
+  ],
+  "texto": "¿Te gustaría dirigir una clínica o un hospital? 🏥 Estudia la Licenciatura en Administración de Centros de Salud 100% en línea con UDEP Connect.\n\nLo que vas a dominar:\n• Gestión integral de centros de salud\n• Administración financiera hospitalaria\n• Cumplimiento normativo sanitario\n• Calidad y mejora continua\n\n¿Dónde puedes trabajar? Centros de salud públicos y privados, hospitales y clínicas, organismos de salud gubernamentales y no gubernamentales, y programas de salud comunitaria.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #CentrosDeSalud #AdministracionHospitalaria #LicenciaturaEnLinea #SanLuisPotosi #ValidezOficial"
+}

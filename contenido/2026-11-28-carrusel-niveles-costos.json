@@ -1,0 +1,39 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-28T18:00:00",
+  "salida": "carruseles/2026-11-28-niveles-costos",
+  "slides": [
+    {
+      "tipo": "portada",
+      "etiqueta": "BECA UDEP",
+      "titulo": "3 niveles en línea",
+      "sub": "Mira cuánto pagas con Beca UDEP"
+    },
+    {
+      "tipo": "precio",
+      "programa": "Bachillerato en línea",
+      "normal": "$2,370 al mes",
+      "beca": "$1,300 al mes",
+      "extra": "2 años · Inscripción GRATIS"
+    },
+    {
+      "tipo": "precio",
+      "programa": "Licenciatura en línea",
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes",
+      "extra": "3 años · Inscripción GRATIS"
+    },
+    {
+      "tipo": "precio",
+      "programa": "Maestría en línea",
+      "normal": "$4,320 al mes",
+      "beca": "$2,120 al mes",
+      "extra": "2 años · Inscripción GRATIS"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Todos con RVOE ante la SEGE"
+    }
+  ],
+  "texto": "¿Cuánto cuesta estudiar en UDEP Connect? Aquí están los 3 niveles 👇\n\n🎒 Bachillerato en línea (2 años)\nCosto normal: $2,370 al mes → con Beca UDEP: $1,300 al mes\n\n🎓 Licenciatura en línea (3 años, 8 carreras)\nCosto normal: $4,300 al mes → con Beca UDEP: $1,400 al mes\n\n📚 Maestría en línea (2 años, 4 maestrías)\nCosto normal: $4,320 al mes → con Beca UDEP: $2,120 al mes\n\n✅ Inscripción GRATIS\n✅ Plataforma abierta 24/7, desde tu celular o computadora\n✅ Validez oficial (RVOE ante la SEGE)\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #BecaUDEP #EstudiaEnLinea #SanLuisPotosi #ValidezOficial #EducacionEnLinea"
+}

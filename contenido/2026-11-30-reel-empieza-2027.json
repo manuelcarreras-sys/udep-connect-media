@@ -1,0 +1,60 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-30T19:00:00",
+  "salida": "reels/2026-11-30-empieza-2027",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "¿Tu propósito 2027",
+        "es estudiar?"
+      ],
+      "sub": "Inscríbete desde hoy."
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "Empieza desde hoy",
+      "items": [
+        [
+          "Inscripción GRATIS",
+          "con Beca UDEP"
+        ],
+        [
+          "Sin horarios fijos",
+          "plataforma abierta 24/7"
+        ],
+        [
+          "Validez oficial",
+          "RVOE ante la SEGE"
+        ]
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.5,
+      "titulo": "Con Beca UDEP pagas",
+      "items": [
+        [
+          "Bachillerato $1,300",
+          "costo normal $2,370 al mes"
+        ],
+        [
+          "Licenciatura $1,400",
+          "costo normal $4,300 al mes"
+        ],
+        [
+          "Maestría $2,120",
+          "costo normal $4,320 al mes"
+        ]
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Bachillerato · Licenciaturas\nMaestrías 100% en línea"
+    }
+  ],
+  "texto": "¿Tu propósito para 2027 es estudiar? Empieza desde hoy 🎓\n\nCon UDEP Connect estudias 100% en línea:\n✅ Sin horarios fijos: desde tu celular o computadora, plataforma abierta 24/7\n✅ Bachillerato, 8 licenciaturas y 4 maestrías\n✅ Validez oficial (RVOE ante la SEGE)\n✅ Varios ingresos al año\n\n💰 Costo normal → con Beca UDEP:\n• Bachillerato: $2,370 → $1,300 al mes\n• Licenciatura: $4,300 → $1,400 al mes\n• Maestría: $4,320 → $2,120 al mes\nInscripción GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #Proposito2027 #EstudiaEnLinea #SanLuisPotosi #ValidezOficial #EducacionEnLinea"
+}

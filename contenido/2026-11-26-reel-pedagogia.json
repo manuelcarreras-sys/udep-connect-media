@@ -1,0 +1,58 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-11-26T19:00:00",
+  "salida": "reels/2026-11-26-pedagogia",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "Forma a los",
+        "que enseñan"
+      ],
+      "sub": "Pedagogía 100% en línea."
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Estudia",
+      "pastilla": "PEDAGOGÍA EN LÍNEA",
+      "materias": [
+        "Didáctica",
+        "Orientación",
+        "Investigación"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "¿Dónde puedes trabajar?",
+      "items": [
+        [
+          "Escuelas",
+          "prepa y universidad"
+        ],
+        [
+          "Capacitación",
+          "en empresas públicas o privadas"
+        ],
+        [
+          "Educación a distancia",
+          "fundaciones y consultorías"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Pedagogía en Educación Media\nSuperior y Superior con RVOE"
+    }
+  ],
+  "texto": "¿Te gustaría formar a los que enseñan? 📚 Estudia la Licenciatura en Pedagogía en Educación Media Superior y Superior 100% en línea con UDEP Connect.\n\nLo que vas a dominar:\n• Diseño curricular para prepa y universidad\n• Docencia con metodologías activas\n• Diseño y evaluación de programas educativos\n• Orientación vocacional y tutoría\n\n¿Dónde puedes trabajar? Instituciones educativas, áreas de capacitación en empresas públicas o privadas, educación a distancia, fundaciones y consultorías.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #Pedagogia #Educacion #LicenciaturaEnLinea #SanLuisPotosi #ValidezOficial"
+}

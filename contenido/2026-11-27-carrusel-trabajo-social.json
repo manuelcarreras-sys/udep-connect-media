@@ -1,0 +1,52 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-11-27T19:00:00",
+  "salida": "carruseles/2026-11-27-trabajo-social",
+  "slides": [
+    {
+      "tipo": "portada",
+      "etiqueta": "TRABAJO SOCIAL",
+      "titulo": "Trabajo Social 100% en línea",
+      "sub": "Transforma comunidades, transforma vidas"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que vas a dominar",
+      "items": [
+        "Diagnóstico e intervención social",
+        "Diseño de proyectos comunitarios",
+        "Trabajo con familias en crisis",
+        "Promoción de derechos humanos"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Dónde puedes trabajar?",
+      "items": [
+        [
+          "Salud física y mental",
+          "instituciones públicas y privadas"
+        ],
+        [
+          "Educación y readaptación",
+          "escuelas y centros de readaptación"
+        ],
+        [
+          "Bienestar comunitario",
+          "programas y proyectos sociales"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "programa": "Trabajo Social",
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Ayuda a personas, familias y comunidades"
+    }
+  ],
+  "texto": "¿Quieres ayudar a mejorar la vida de las personas? 🤝 Estudia la Licenciatura en Trabajo Social 100% en línea con UDEP Connect.\n\nLo que vas a dominar:\n• Diagnóstico e intervención social\n• Diseño de proyectos comunitarios\n• Trabajo con familias en crisis\n• Promoción de derechos humanos\n\n¿Dónde puedes trabajar? Instituciones de salud física y mental, instituciones educativas y de readaptación social, rehabilitación geriátrica y programas de bienestar comunitario.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #TrabajoSocial #LicenciaturaEnLinea #SanLuisPotosi #EstudiaEnLinea #ValidezOficial"
+}
