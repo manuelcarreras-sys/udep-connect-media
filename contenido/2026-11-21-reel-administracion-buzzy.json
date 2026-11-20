@@ -7,16 +7,102 @@
   "musica_db": -17,
   "banda": true,
   "segmentos": [
-    {"tipo": "clip", "archivo": "/home/claude/buzzy/adm/clip1.mp4", "dur": 6.0, "textos": [
-      {"t0": 0.2, "t1": 2.9, "texto": "¿Sueñas con tu propio negocio?", "estilo": "grande"},
-      {"t0": 3.0, "t1": 6.0, "texto": "Licenciatura en Administración", "pastilla": "100% EN LÍNEA"}]},
-    {"tipo": "clip", "archivo": "/home/claude/buzzy/adm/clip2.mp4", "dur": 6.0, "textos": [
-      {"t0": 0.0, "t1": 3.3, "texto": "Licenciatura en Administración", "pastilla": "100% EN LÍNEA"},
-      {"t0": 3.5, "t1": 6.0, "texto": "A tu ritmo, desde tu celular"}]},
-    {"tipo": "clip", "archivo": "/home/claude/buzzy/adm/clip3.mp4", "dur": 5.2, "textos": [
-      {"t0": 0.6, "t1": 2.6, "texto": "Con validez oficial", "pastilla": "RVOE ANTE LA SEGE"},
-      {"t0": 2.7, "t1": 5.2, "texto": "Costo normal: $4,300 al mes"}]},
-    {"tipo": "tarjeta", "dur": 5.4, "escena": {"tipo": "precio", "normal": "$4,300 al mes", "beca": "$1,400 al mes"}},
-    {"tipo": "tarjeta", "dur": 4.6, "escena": {"tipo": "cierre", "programas": "Administración y Gestión\nEmpresarial con RVOE"}}
+    {
+      "tipo": "clip",
+      "archivo": "/home/claude/buzzy/adm/clip1.mp4",
+      "dur": 4.5,
+      "textos": [
+        {
+          "t0": 0.2,
+          "t1": 2.6,
+          "texto": "¿Sueñas con tu propio negocio?",
+          "estilo": "grande"
+        },
+        {
+          "t0": 2.7,
+          "t1": 4.5,
+          "texto": "Licenciatura en Administración",
+          "pastilla": "100% EN LÍNEA",
+          "sin_salida": true
+        }
+      ]
+    },
+    {
+      "tipo": "clip",
+      "archivo": "/home/claude/buzzy/adm/clip2.mp4",
+      "dur": 6.0,
+      "textos": [
+        {
+          "t0": 0.0,
+          "t1": 4.8,
+          "texto": "Licenciatura en Administración",
+          "pastilla": "100% EN LÍNEA",
+          "sin_entrada": true,
+          "y": 520
+        },
+        {
+          "t0": 5.0,
+          "t1": 6.0,
+          "texto": "A tu ritmo, desde tu celular",
+          "sin_salida": true,
+          "y": 520
+        }
+      ],
+      "banda": false
+    },
+    {
+      "tipo": "clip",
+      "archivo": "/home/claude/buzzy/adm/clip4.mp4",
+      "desde": 0.1,
+      "dur": 4.5,
+      "textos": [
+        {
+          "t0": 0.0,
+          "t1": 2.0,
+          "texto": "A tu ritmo, desde tu celular",
+          "sin_entrada": true,
+          "y": 520
+        },
+        {
+          "t0": 2.2,
+          "t1": 4.5,
+          "texto": "Con validez oficial",
+          "pastilla": "RVOE ANTE LA SEGE",
+          "y": 520
+        }
+      ],
+      "banda": false
+    },
+    {
+      "tipo": "clip",
+      "archivo": "/home/claude/buzzy/adm/clip3.mp4",
+      "desde": 0.4,
+      "dur": 2.2,
+      "textos": [
+        {
+          "t0": 0.0,
+          "t1": 2.2,
+          "texto": "Costo normal: $4,300 al mes",
+          "sin_salida": true
+        }
+      ]
+    },
+    {
+      "tipo": "tarjeta",
+      "dur": 5.4,
+      "escena": {
+        "tipo": "precio",
+        "normal": "$4,300 al mes",
+        "beca": "$1,400 al mes"
+      }
+    },
+    {
+      "tipo": "tarjeta",
+      "dur": 4.6,
+      "escena": {
+        "tipo": "cierre",
+        "programas": "Administración y Gestión\nEmpresarial con RVOE"
+      }
+    }
   ]
 }

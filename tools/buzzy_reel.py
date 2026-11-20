@@ -48,8 +48,10 @@ def clip_frames(path, start, dur):
 
 def draw_caption(img, t, tx, en_banda=False):
     """Texto de marca sobre el video. En banda: centrado dentro de la franja inferior."""
-    e = ease_out(prog(t, tx["t0"], 0.35))
-    out = 1 - ease_out(prog(t, tx["t1"] - 0.25, 0.25))
+    if not (tx["t0"] <= t <= tx["t1"]):
+        return
+    e = 1.0 if tx.get("sin_entrada") else ease_out(prog(t, tx["t0"], 0.35))
+    out = 1.0 if tx.get("sin_salida") else 1 - ease_out(prog(t, tx["t1"] - 0.25, 0.25))
     a = clamp(min(e, out))
     if a <= 0:
         return
@@ -57,8 +59,9 @@ def draw_caption(img, t, tx, en_banda=False):
     d = ImageDraw.Draw(ov)
     grande = tx.get("estilo") == "grande"
     base = 78 if grande else 66
-    font = fit(d, tx["texto"], PB, base, RW - 160, minsize=54)
-    lines = wrap(d, tx["texto"], font, RW - 160)
+    ancho = RW - 160 if en_banda else RW - 260
+    font = fit(d, tx["texto"], PB, base, ancho, minsize=54)
+    lines = wrap(d, tx["texto"], font, ancho)
     lh = font.size * 1.18
     pill_h = F(PB, 50).size * 1.55 + 26 if tx.get("pastilla") else 0
     block_h = len(lines) * lh + pill_h
@@ -122,10 +125,11 @@ def render(spec):
                 t = i / FPS
                 img = frames[i].copy()
                 watermark(img)
-                if spec.get("banda"):
+                usa_banda = seg.get("banda", spec.get("banda", False))
+                if usa_banda:
                     banda(img, clamp(t / 0.3) if k == 0 else 1.0)
                 for tx in seg.get("textos", []):
-                    draw_caption(img, t, tx, en_banda=spec.get("banda", False))
+                    draw_caption(img, t, tx, en_banda=usa_banda)
                 if k == 0 and t < 0.2:
                     img = Image.blend(Image.new("RGB", (RW, RH), (0, 0, 0)), img, t / 0.2)
                 enc.stdin.write(img.tobytes())
@@ -170,10 +174,11 @@ def preview(spec, times):
                 if seg["tipo"] == "clip":
                     img = next(clip_frames(seg["archivo"], seg.get("desde", 0) + t, 0.1))
                     watermark(img)
-                    if spec.get("banda"):
+                    usa_banda = seg.get("banda", spec.get("banda", False))
+                    if usa_banda:
                         banda(img)
                     for tx in seg.get("textos", []):
-                        draw_caption(img, t, tx, en_banda=spec.get("banda", False))
+                        draw_caption(img, t, tx, en_banda=usa_banda)
                 else:
                     img = gen.frame_reel(seg["escena"], t, acc)
                 p = os.path.join(tmpdir, f"prev_{T:05.1f}.jpg"); img.save(p, quality=85); outs.append(p)
