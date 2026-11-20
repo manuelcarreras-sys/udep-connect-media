@@ -13,7 +13,7 @@
 | 2026-11-17 19:00 | Carrusel (5) | Maestría en Educación | Para docentes (PUBLICADA) | contenido/2026-11-17-carrusel-maestria-educacion.json | 418428544 |
 | 2026-11-18 19:00 | Reel | Lic. Contaduría | ¿Eres bueno con los números? | contenido/2026-11-18-reel-contaduria.json | 431059223 |
 | 2026-11-19 19:00 | Carrusel (6) | General | Preguntas frecuentes (requisitos, duración, celular, costos) | contenido/2026-11-19-carrusel-preguntas-frecuentes.json | 431059537 |
-| 2026-11-21 18:00 | Reel | Lic. Administración | ¿Sueñas con tu propio negocio? | contenido/2026-11-21-reel-administracion.json | 431059547 |
+| 2026-11-21 18:00 | Reel (Buzzy, Hecho con IA) | Lic. Administración | ¿Sueñas con tu propio negocio? | contenido/2026-11-21-reel-administracion-buzzy.json | 436106105 |
 | 2026-11-23 19:00 | Carrusel (5) | Bachillerato | ¿Qué necesitas para inscribirte? Requisitos y pasos | contenido/2026-11-23-carrusel-bachillerato-requisitos.json | 431059555 |
 | 2026-11-24 19:00 | Reel | Maestrías Derecho Penal y Laboral | Abogado: especialízate | contenido/2026-11-24-reel-maestrias-derecho.json | 431059568 |
 | 2026-11-25 19:00 | Carrusel (5) | Lic. Ing. Industrial | Ingeniería Industrial 100% en línea: qué dominas y dónde trabajas | contenido/2026-11-25-carrusel-ingenieria-industrial.json | 431059579 |
