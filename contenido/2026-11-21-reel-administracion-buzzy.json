@@ -1,0 +1,22 @@
+{
+  "fecha": "2026-11-21T18:00:00",
+  "salida": "reels/2026-11-21-administracion-buzzy",
+  "voz": "/home/claude/buzzy/adm/voz.mp3",
+  "voz_inicio": 0.3,
+  "musica": "/home/claude/buzzy/adm/musica.mp3",
+  "musica_db": -17,
+  "banda": true,
+  "segmentos": [
+    {"tipo": "clip", "archivo": "/home/claude/buzzy/adm/clip1.mp4", "dur": 6.0, "textos": [
+      {"t0": 0.2, "t1": 2.9, "texto": "¿Sueñas con tu propio negocio?", "estilo": "grande"},
+      {"t0": 3.0, "t1": 6.0, "texto": "Licenciatura en Administración", "pastilla": "100% EN LÍNEA"}]},
+    {"tipo": "clip", "archivo": "/home/claude/buzzy/adm/clip2.mp4", "dur": 6.0, "textos": [
+      {"t0": 0.0, "t1": 3.3, "texto": "Licenciatura en Administración", "pastilla": "100% EN LÍNEA"},
+      {"t0": 3.5, "t1": 6.0, "texto": "A tu ritmo, desde tu celular"}]},
+    {"tipo": "clip", "archivo": "/home/claude/buzzy/adm/clip3.mp4", "dur": 5.2, "textos": [
+      {"t0": 0.6, "t1": 2.6, "texto": "Con validez oficial", "pastilla": "RVOE ANTE LA SEGE"},
+      {"t0": 2.7, "t1": 5.2, "texto": "Costo normal: $4,300 al mes"}]},
+    {"tipo": "tarjeta", "dur": 5.4, "escena": {"tipo": "precio", "normal": "$4,300 al mes", "beca": "$1,400 al mes"}},
+    {"tipo": "tarjeta", "dur": 4.6, "escena": {"tipo": "cierre", "programas": "Administración y Gestión\nEmpresarial con RVOE"}}
+  ]
+}
