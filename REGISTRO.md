@@ -11,11 +11,11 @@
 | 2026-11-14 18:00 | Carrusel (5) | General | Cómo funciona UDEP Connect + costos (PUBLICADA) | contenido/2026-11-14-carrusel-como-funciona.json | 418428524 |
 | 2026-11-16 19:00 | Reel | Lic. Derecho | ¿Te gustaría ser abogado? (PUBLICADA) | contenido/2026-11-16-reel-derecho.json | 418428535 |
 | 2026-11-17 19:00 | Carrusel (5) | Maestría en Educación | Para docentes (PUBLICADA) | contenido/2026-11-17-carrusel-maestria-educacion.json | 418428544 |
-| 2026-11-18 19:00 | Reel | Lic. Contaduría | ¿Eres bueno con los números? | contenido/2026-11-18-reel-contaduria.json | 431059223 |
-| 2026-11-19 19:00 | Carrusel (6) | General | Preguntas frecuentes (requisitos, duración, celular, costos) | contenido/2026-11-19-carrusel-preguntas-frecuentes.json | 431059537 |
-| 2026-11-21 18:00 | Reel (Buzzy, Hecho con IA) | Lic. Administración | ¿Sueñas con tu propio negocio? | contenido/2026-11-21-reel-administracion-buzzy.json | 436106105 |
-| 2026-11-23 19:00 | Carrusel (5) | Bachillerato | ¿Qué necesitas para inscribirte? Requisitos y pasos | contenido/2026-11-23-carrusel-bachillerato-requisitos.json | 431059555 |
-| 2026-11-24 19:00 | Reel | Maestrías Derecho Penal y Laboral | Abogado: especialízate | contenido/2026-11-24-reel-maestrias-derecho.json | 431059568 |
+| 2026-11-18 19:00 | Reel | Lic. Contaduría | ¿Eres bueno con los números? (PUBLICADA) | contenido/2026-11-18-reel-contaduria.json | 431059223 |
+| 2026-11-19 19:00 | Carrusel (6) | General | Preguntas frecuentes (requisitos, duración, celular, costos) (PUBLICADA) | contenido/2026-11-19-carrusel-preguntas-frecuentes.json | 431059537 |
+| 2026-11-21 18:00 | Reel (Buzzy, Hecho con IA) | Lic. Administración | ¿Sueñas con tu propio negocio? (PUBLICADA) | contenido/2026-11-21-reel-administracion-buzzy.json | 436106105 |
+| 2026-11-23 19:00 | Carrusel (5) | Bachillerato | ¿Qué necesitas para inscribirte? Requisitos y pasos (PUBLICADA) | contenido/2026-11-23-carrusel-bachillerato-requisitos.json | 431059555 |
+| 2026-11-24 19:00 | Reel | Maestrías Derecho Penal y Laboral | Abogado: especialízate (PUBLICADA) | contenido/2026-11-24-reel-maestrias-derecho.json | 431059568 |
 | 2026-11-25 19:00 | Carrusel (5) | Lic. Ing. Industrial | Ingeniería Industrial 100% en línea: qué dominas y dónde trabajas | contenido/2026-11-25-carrusel-ingenieria-industrial.json | 431059579 |
 | 2026-11-26 19:00 | Reel | Lic. Pedagogía | Forma a los que enseñan | contenido/2026-11-26-reel-pedagogia.json | 432285288 |
 | 2026-11-27 19:00 | Carrusel (5) | Lic. Trabajo Social | Trabajo Social 100% en línea: qué dominas y dónde trabajas | contenido/2026-11-27-carrusel-trabajo-social.json | 432285298 |
@@ -26,3 +26,15 @@
 Nota 2026-11-17: las publicaciones del 18 al 25 de noviembre se rehicieron con el diseño de dispositivos (archivos -v2) y se actualizaron en Metricool sin cambiar fecha, hora ni texto; por eso cambiaron sus IDs.
 
 **Conteo noviembre 2026: 20 de 20 (mes completo)**
+
+## Diciembre 2026
+
+| Fecha y hora (CDMX) | Formato | Programa | Tema / gancho | Archivo de contenido | ID Metricool |
+|---|---|---|---|---|---|
+| 2026-12-01 19:00 | Reel | Lic. Mercadotecnia Internacional | ¿Te gustaría crear campañas que venden? | contenido/2026-12-01-reel-mercadotecnia.json | 441166565 |
+| 2026-12-02 19:00 | Carrusel (5) | Maestría en Administración Empresarial | Para dirigir: qué dominas y dónde creces | contenido/2026-12-02-carrusel-maestria-empresarial.json | 441166588 |
+| 2026-12-03 19:00 | Reel | Bachillerato | Tu prepa, desde tu celular | contenido/2026-12-03-reel-bachillerato-celular.json | 441166602 |
+| 2026-12-05 18:00 | Carrusel (5) | General | ¿Qué es el RVOE? | contenido/2026-12-05-carrusel-rvoe.json | 441166609 |
+| 2026-12-07 19:00 | Reel | Maestría en Educación | ¿Das clases? Sube de nivel | contenido/2026-12-07-reel-maestria-educacion.json | 441166625 |
+
+**Conteo diciembre 2026: 5 de 20**
