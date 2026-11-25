@@ -27,5 +27,29 @@ Estado: ✅ programada · ⏳ pendiente de producir.
 | 19 | Dom 29 nov 18:00 | Reel | Lic. Centros de Salud | Administración de Centros de Salud | ✅ |
 | 20 | Lun 30 nov 19:00 | Reel | General | Empieza 2027 estudiando: inscríbete desde hoy | ✅ |
 
-Diciembre: planear al inicio del mes con el mismo límite (20). Temas sugeridos: Mercadotecnia Internacional,
-Maestría en Administración Empresarial, propósitos de año nuevo, inicio de clases 2027, preguntas frecuentes 2.
+# Calendario de contenido UDEP Connect — diciembre 2026
+
+Límite: 20 publicaciones. Sin repetir ganchos de noviembre.
+
+| # | Fecha | Formato | Programa | Tema / gancho | Estado |
+|---|---|---|---|---|---|
+| 1 | Mar 1 dic 19:00 | Reel | Lic. Mercadotecnia Internacional | ¿Te gustaría crear campañas que venden? | ✅ |
+| 2 | Mié 2 dic 19:00 | Carrusel | Maestría en Administración Empresarial | Para dirigir: qué dominas y dónde creces | ✅ |
+| 3 | Jue 3 dic 19:00 | Reel | Bachillerato | Tu prepa, desde tu celular (sin traslados) | ✅ |
+| 4 | Sáb 5 dic 18:00 | Carrusel | General | ¿Qué es el RVOE? Revísalo antes de inscribirte | ✅ |
+| 5 | Lun 7 dic 19:00 | Reel | Maestría en Educación | ¿Das clases? Sube de nivel | ✅ |
+| 6 | Mar 8 dic 19:00 | Carrusel | Lic. Derecho | Lo que vas a dominar en Derecho en línea | ⏳ |
+| 7 | Mié 9 dic 19:00 | Reel | General | Así es estudiar en la plataforma 24/7 | ⏳ |
+| 8 | Jue 10 dic 19:00 | Carrusel | Lic. Contaduría | 4 cosas que hace un contador público | ⏳ |
+| 9 | Sáb 12 dic 18:00 | Reel | Bachillerato | ¿Te piden la prepa para un mejor trabajo? | ⏳ |
+| 10 | Lun 14 dic 19:00 | Carrusel | Maestría en Derecho Penal | Sistema penal acusatorio y juicios orales | ⏳ |
+| 11 | Mar 15 dic 19:00 | Reel | Lic. Ing. Industrial | ¿Te gusta mejorar procesos? | ⏳ |
+| 12 | Mié 16 dic 19:00 | Carrusel | General | Preguntas frecuentes 2 (titulación, ingresos al año, cambio de modalidad) | ⏳ |
+| 13 | Jue 17 dic 19:00 | Reel | Lic. Trabajo Social | Ayuda a tu comunidad | ⏳ |
+| 14 | Sáb 19 dic 18:00 | Carrusel | Lic. Administración | Emprende con bases: lo que aprendes | ⏳ |
+| 15 | Lun 21 dic 19:00 | Reel | Maestría en Derecho Laboral | Domina la reforma laboral | ⏳ |
+| 16 | Mar 22 dic 19:00 | Carrusel | Lic. Pedagogía | Qué dominas y dónde trabajas | ⏳ |
+| 17 | Sáb 26 dic 18:00 | Reel | Lic. Centros de Salud | Gestiona la calidad en salud | ⏳ |
+| 18 | Lun 28 dic 19:00 | Carrusel | Bachillerato | 3 razones para terminar la prepa en 2027 | ⏳ |
+| 19 | Mar 29 dic 19:00 | Carrusel | Lic. Mercadotecnia Internacional | Marketing digital y comercio internacional: dónde trabajas | ⏳ |
+| 20 | Mié 30 dic 19:00 | Reel | General | Inicia 2027 estudiando: varios ingresos al año, aparta tu lugar | ⏳ |

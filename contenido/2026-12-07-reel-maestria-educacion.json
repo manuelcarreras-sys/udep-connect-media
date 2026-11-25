@@ -1,0 +1,59 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-12-07T19:00:00",
+  "salida": "reels/2026-12-07-maestria-educacion",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "¿Das clases?",
+        "Sube de nivel"
+      ],
+      "sub": "Maestría 100% en línea.",
+      "ilustracion": "panel"
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Maestría en",
+      "pastilla": "EDUCACIÓN",
+      "materias": [
+        "Tecnología educativa",
+        "Tutoría virtual",
+        "Innovación"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "¿Dónde puedes crecer?",
+      "items": [
+        [
+          "Dirección académica",
+          "coordina y dirige"
+        ],
+        [
+          "Diseño curricular",
+          "crea programas"
+        ],
+        [
+          "Tecnología educativa",
+          "clases digitales"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$4,320 al mes",
+      "beca": "$2,120 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Maestría en Educación\n100% en línea con RVOE"
+    }
+  ],
+  "texto": "¿Das clases? Es momento de subir de nivel 📚\n\nHaz la Maestría en Educación 100% en línea con UDEP Connect, en solo 2 años, sin dejar tu trabajo.\n\nLo que vas a dominar:\n• Tecnología educativa y ambientes de aprendizaje digital\n• Gestión de plataformas y contenidos digitales\n• Docencia universitaria y tutoría virtual\n\n¿Dónde puedes crecer? Dirección académica, diseño curricular, tecnología educativa e investigación.\n\n🎓 Titúlate por tesis, proyecto de innovación o examen final\n✅ Validez oficial (RVOE ante la SEGE)\n📌 Requisito: título de licenciatura\n\n💰 Costo normal: $4,320 al mes. Con Beca UDEP pagas solo $2,120 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #MaestriaEnEducacion #Docentes #MaestriaEnLinea #SanLuisPotosi #ValidezOficial"
+}

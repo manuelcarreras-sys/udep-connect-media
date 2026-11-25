@@ -1,0 +1,51 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-12-05T18:00:00",
+  "salida": "carruseles/2026-12-05-rvoe",
+  "slides": [
+    {
+      "tipo": "portada",
+      "etiqueta": "VALIDEZ OFICIAL",
+      "titulo": "¿Qué es el RVOE?",
+      "sub": "Lo que debes revisar antes de inscribirte"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "RVOE significa",
+      "items": [
+        [
+          "Reconocimiento de Validez",
+          "Oficial de Estudios"
+        ],
+        [
+          "Lo otorga la autoridad",
+          "en nuestro caso, la SEGE"
+        ],
+        [
+          "Tus estudios son oficiales",
+          "certificado y título con validez"
+        ]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Con RVOE en UDEP Connect",
+      "items": [
+        "Bachillerato en línea",
+        "8 licenciaturas en línea",
+        "4 maestrías en línea"
+      ]
+    },
+    {
+      "tipo": "precio",
+      "programa": "Licenciatura en línea",
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Todos nuestros programas tienen RVOE ante la SEGE"
+    }
+  ],
+  "texto": "Antes de inscribirte en cualquier escuela, pregunta: ¿tiene RVOE? 🎓\n\nRVOE significa Reconocimiento de Validez Oficial de Estudios. Lo otorga la autoridad educativa y quiere decir que tus estudios son oficiales.\n\nEn UDEP Connect todos los programas en línea tienen RVOE ante la SEGE:\n• Bachillerato en línea\n• 8 licenciaturas en línea\n• 4 maestrías en línea\n\n💰 Costo normal → con Beca UDEP:\n• Bachillerato: $2,370 → $1,300 al mes\n• Licenciatura: $4,300 → $1,400 al mes\n• Maestría: $4,320 → $2,120 al mes\nInscripción GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #RVOE #ValidezOficial #EstudiaEnLinea #SanLuisPotosi #EducacionEnLinea"
+}

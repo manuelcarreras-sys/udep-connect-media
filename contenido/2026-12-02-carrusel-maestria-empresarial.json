@@ -1,0 +1,44 @@
+{
+  "tipo": "carrusel",
+  "fecha": "2026-12-02T19:00:00",
+  "salida": "carruseles/2026-12-02-maestria-empresarial",
+  "slides": [
+    {
+      "tipo": "portada",
+      "etiqueta": "PARA DIRIGIR",
+      "titulo": "Maestría en Administración Empresarial",
+      "sub": "100% en línea · 2 años"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que vas a dominar",
+      "items": [
+        "Análisis de estados financieros y proyectos de inversión",
+        "Liderazgo estratégico y toma de decisiones",
+        "Gestión de la innovación y dirección de equipos",
+        "Herramientas digitales y análisis de datos"
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Dónde puedes crecer?",
+      "items": [
+        "Alta dirección",
+        "Consultoría estratégica",
+        "Tu propia empresa",
+        "Empresas globales"
+      ]
+    },
+    {
+      "tipo": "precio",
+      "programa": "Maestría en línea",
+      "normal": "$4,320 al mes",
+      "beca": "$2,120 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Requisito: título de licenciatura"
+    }
+  ],
+  "texto": "¿Quieres llegar a un puesto directivo sin pausar tu carrera? 💼\n\nHaz la Maestría en Administración Empresarial 100% en línea con UDEP Connect, en solo 2 años.\n\nLo que vas a dominar:\n• Análisis de estados financieros y evaluación de proyectos de inversión\n• Liderazgo estratégico y toma de decisiones de alto nivel\n• Gestión de la innovación y dirección de equipos\n• Herramientas digitales y análisis de datos\n\n¿Dónde puedes crecer? Alta dirección, consultoría estratégica, emprendimiento y posiciones gerenciales en empresas globales.\n\n💰 Costo normal: $4,320 al mes. Con Beca UDEP pagas solo $2,120 al mes y tu inscripción es GRATIS.\n\n🎓 Titúlate por tesis, proyecto de innovación o examen final\n✅ Validez oficial (RVOE ante la SEGE)\n📌 Requisito: título de licenciatura\n📲 WhatsApp: 444 519 3359\n\n#UDEPConnect #MaestriaEnLinea #AdministracionEmpresarial #Liderazgo #SanLuisPotosi #ValidezOficial"
+}

@@ -1,0 +1,58 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-12-01T19:00:00",
+  "salida": "reels/2026-12-01-mercadotecnia",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "¿Te gustaría crear",
+        "campañas que venden?"
+      ],
+      "sub": "Licenciatura 100% en línea."
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Estudia",
+      "pastilla": "MERCADOTECNIA",
+      "materias": [
+        "Publicidad",
+        "Ventas",
+        "Negocios Electrónicos"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "¿Dónde puedes trabajar?",
+      "items": [
+        [
+          "Agencias publicitarias",
+          "diseño de campañas"
+        ],
+        [
+          "Marketing digital",
+          "redes sociales y e-commerce"
+        ],
+        [
+          "Comercio internacional",
+          "importadoras y exportadoras"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$4,300 al mes",
+      "beca": "$1,400 al mes"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Mercadotecnia Internacional\n100% en línea con RVOE"
+    }
+  ],
+  "texto": "¿Te gustaría crear campañas que venden? 📢 Estudia la Licenciatura en Mercadotecnia Internacional 100% en línea con UDEP Connect.\n\nLo que vas a dominar:\n• Estrategias de mercadotecnia globales\n• Investigación de mercados y análisis del consumidor\n• Campañas publicitarias creativas\n• Marketing digital y negocios electrónicos\n\n¿Dónde puedes trabajar? Agencias publicitarias, marketing digital (redes sociales, e-commerce), empresas importadoras y exportadoras, consultoría e investigación de mercados, o emprender tu propia agencia.\n\n✅ Terminas en 3 años, a tu ritmo\n✅ Validez oficial (RVOE ante la SEGE)\n\n💰 Costo normal: $4,300 al mes. Con Beca UDEP pagas solo $1,400 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #Mercadotecnia #MarketingDigital #LicenciaturaEnLinea #SanLuisPotosi #ValidezOficial"
+}

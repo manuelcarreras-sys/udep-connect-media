@@ -1,0 +1,60 @@
+{
+  "tipo": "reel",
+  "fecha": "2026-12-03T19:00:00",
+  "salida": "reels/2026-12-03-bachillerato-celular",
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "dur": 3.0,
+      "lineas": [
+        "Tu prepa,",
+        "desde tu celular"
+      ],
+      "sub": "Sin traslados y sin horarios fijos.",
+      "ilustracion": "movil"
+    },
+    {
+      "tipo": "pastilla",
+      "dur": 3.5,
+      "titulo": "Estudia el",
+      "pastilla": "BACHILLERATO",
+      "materias": [
+        "Historia de México",
+        "Álgebra",
+        "Biología"
+      ]
+    },
+    {
+      "tipo": "checks",
+      "dur": 4.0,
+      "titulo": "¿Por qué en línea?",
+      "items": [
+        [
+          "Desde cualquier lugar",
+          "a tu propio ritmo"
+        ],
+        [
+          "Ahorras tiempo",
+          "y gastos de traslado"
+        ],
+        [
+          "Plataforma 24/7",
+          "celular o computadora"
+        ]
+      ]
+    },
+    {
+      "tipo": "precio",
+      "dur": 4.0,
+      "normal": "$2,370 al mes",
+      "beca": "$1,300 al mes",
+      "ilustracion": "phone"
+    },
+    {
+      "tipo": "cierre",
+      "dur": 4.5,
+      "programas": "Bachillerato en línea\ncon RVOE ante la SEGE"
+    }
+  ],
+  "texto": "Tu prepa, desde tu celular 📱 Termina el Bachillerato 100% en línea con UDEP Connect.\n\n✅ Estudias desde cualquier lugar y a tu propio ritmo\n✅ Ahorras tiempo y gastos de traslado\n✅ Plataforma abierta 24/7, desde tu celular o computadora\n✅ Seguimiento de tu avance y biblioteca digital\n✅ Terminas en 2 años, con validez oficial (RVOE ante la SEGE)\n\n📄 Requisito: certificado de secundaria\n\n💰 Costo normal: $2,370 al mes. Con Beca UDEP pagas solo $1,300 al mes y tu inscripción es GRATIS.\n\n📲 Pide informes por WhatsApp: 444 519 3359\n\n#UDEPConnect #PrepaEnLinea #BachilleratoEnLinea #TerminaTuPrepa #SanLuisPotosi #ValidezOficial"
+}
